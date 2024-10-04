@@ -2,17 +2,25 @@
 
 Collaborative content management for the [DesignSafe Tools & Apps](https://www.designsafe-ci.org/use-designsafe/tools-applications/) pages.
 
-## How to Contribute?
+## How to Contribute
 
 1. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository.\
     <sup>(unless you are a direct collaborator)</sup>
-2. [Edit](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) relevant files e.g. `your-app/content.json`).\
-    <sup>(to propose logo change, [delete](https://docs.github.com/en/repositories/working-with-files/managing-files/deleting-files-in-a-repository#deleting-a-file) `logo.png`, then [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) new `logo.png`)</sup>
-4. [Commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) your changes.
-6. [Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) a review.\
+2. [Edit](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) relevant files.\
+    <sup>(e.g. `your-app/content.json`)\
+    (you can also [change the logo](#how-to-change-logo))</sup>
+3. [Commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) your changes.
+4. [Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) a review.\
     <sup>(a.k.a. create a "Pull Request")</sup>
 
-## What Happens Next?
+### How To Change Logo
+
+- [Delete](https://docs.github.com/en/repositories/working-with-files/managing-files/deleting-files-in-a-repository#deleting-a-file) `logo.*`\
+    <sup>(if logo exists)</sup>
+- [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) new `logo.*`.\
+    <sup>(preferred formats: `.svg`, `.png`)</sup>
+
+## What Happens Next
 
 1. We may request adjustments before we approve a Pull Request.
 2. We will merge approved Pull Requests.
