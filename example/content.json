@@ -1,7 +1,7 @@
 {
     "name": "Example",
     "category": "Simulation",
-    "logo_path": "../logo.png",
+    "logo_path": "./logo.png",
     "short_desc": "A short phrase that simply states what the code does, nothing else.",
     "tags": [
         "Earthquake",
