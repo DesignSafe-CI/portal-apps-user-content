@@ -2,7 +2,7 @@
 
 Collaborative content management for the [DesignSafe Tools & Apps](https://www.designsafe-ci.org/use-designsafe/tools-applications/) pages.
 
-## Contributing
+## How to Contribute?
 
 1. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository.\
     <sup>(unless you are a direct collaborator)</sup>
