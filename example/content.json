@@ -1,25 +1,52 @@
 {
-    "category": "",
-    "label": "",
+    "name": "Example",
+    "category": "Simulation",
     "logo_path": "../logo.png",
-    "user_guide_link": "",
-    "short_desc": "",
-    "tags": "",
-    "is_simcenter": null,
-    "is_popular": null,
-    "license_type": "",
-    "long_desc": "",
-    "user_guide_desc": "",
-    "video_links": [],
-    "resource_links": [],
-    "citation_formats": [{
-        "label": "",
-        "citation": ""
-    }],
-    "citation_notice": "",
-    "versions": [{
-        "label": "",
-        "description": ""
-    }],
-    "related_apps": []
+    "short_desc": "A short phrase that simply states what the code does, nothing else.",
+    "tags": [
+        "Earthquake",
+        "Landslide"
+    ],
+    "is_popular": true,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+    "long_desc": "An introduction to the software and the most important data a new user must know. This should be less information than the user guide, but may use content from the user guide.",
+    "user_guide_link": "https://www.designsafe-ci.org/user-guide/tools/____/____",
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "video_links": [
+        {
+            "text": "The Name of the Video Tutorial",
+            "url": "https://youtu.be/___"
+        }
+    ],
+    "resource_links": [
+        {
+            "text": "Example Website",
+            "url": "https://example.com/"
+        }
+    ],
+    "citation_formats": [
+        {
+            "label": "For Variant A",
+            "citation": "John, D., Wilma, G., and Suzie, W. (2001) Name of the Software Cited A Version NN [Computer software]. University of City, State, http://that-software.that-university.edu."
+        },
+        {
+            "label": "For Variant B",
+            "citation": "Some, D., Another, G., and That, W. (2002) Name of the Software Cited B Version NN [Computer software].University of City, State, http://that-software.that-university.edu."
+        }
+    ],
+    "citation_notice": "Please, change \"Version NN\" to the version you used.",
+    "versions": [
+        {
+            "label": "Sofwtare Variant A",
+            "description": "Runs an app and responds to errors in real time."
+        },
+        {
+            "label": "Sofwtare Variant B",
+            "description": "Runs an app and responds to errors in false time."
+        }
+    ],
+    "related_apps": [
+        "opensees"
+    ]
 }
