@@ -1,0 +1,87 @@
+{
+    "name": "OpenSees",
+    "category": "Simulation",
+    "logo_path": "../logo.png",
+    "short_desc": "Geotechnical and structural simulation",
+    "tags": [
+        "Earthquake",
+        "Wind"
+    ],
+    "is_popular": true,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+    "long_desc": "The Open System for Earthquake Engineering Simulation (OpenSees) is a software framework for simulating the static and seismic response of structural and geotechnical systems. It has advanced capabilities for modeling and analyzing the nonlinear response of systems using a wide range of material models, elements, and solution algorithms.",
+    "user_guide_link": "https://www.designsafe-ci.org/user-guide/tools/simulation/opensees/opensees/#opensees-on-designsafe-quick-start",
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "video_links": [
+        {
+            "text": "Running OpenSees on the DesignSafe CyberInfrastructure - Scalability by Design, Nov. 14, 2023",
+            "url": "https://youtu.be/eC9e972lClk?si=xYIy7ni5q4NnLir6"
+        },
+        {
+            "text": "Calibrating an OpenSees Material Model using Experimental Data in quoFEM, Dec. 10, 2021",
+            "url": "https://youtu.be/hLBB6nGld2M?si=7dBUGznidJlT2yjW"
+        },
+        {
+            "text": "Fluid-Structure Interaction with OpenFOAM and OpenSees with Hydro-UQ, Nov.19 2021",
+            "url": "https://youtu.be/j5R_bsVq6IU?si=54fHglx3mdsoKEI5"
+        },
+        {
+            "text": "2021 DSA Hackathon: Automated Model Calibration for Cyclic Tests Using OpenSees & Jupyter Notebooks",
+            "url": "https://youtu.be/ZK2U1XRQisY?si=g4YnNjq2O2UNgnGz"
+        },
+        {
+            "text": "WEBINAR - Using OpenSeesPy on DesignSafe, May 22, 2019",
+            "url": "https://youtu.be/lq9mESvpL74?si=sNH_YrWmosZx9KcE"
+        },
+        {
+            "text": "WEBINAR - OpenSees & DesignSafe, Oct. 31, 2018",
+            "url": "https://youtu.be/upMaiz79h7E?si=Gb3EGHxNiBytboX5"
+        },
+        {
+            "text": "SimCenter | Numerical Simulation of Concentrically Braced Frames using OpenSees, Oct. 10, 2017",
+            "url": "https://youtu.be/oc86bQV-iMM?si=JAv0G7dvofMw1sPD"
+        },
+        {
+            "text": "WEBINAR - Leveraging OpenSees, Jupyter and DesignSafe: A Real World Walkthrough, May 3, 2017",
+            "url": "https://youtu.be/aglCV3BZoxE?si=VDX5BmveVuMxq5ao"
+        }
+    ],
+    "resource_links": [
+        {
+            "text": "OpenSees Website",
+            "url": "https://opensees.berkeley.edu/"
+        },
+        {
+            "text": "OpenSees GitHub",
+            "url": "https://github.com/OpenSees/OpenSees"
+        }
+    ],
+    "citation_formats": [{
+        "label": "",
+        "citation": "McKenna, F., Fenves, G. L, and Scott, M. H. (2000) Open System for Earthquake Engineering Simulation. University of California, Berkeley, http://opensees.berkeley.edu."
+    }],
+    "citation_notice": "",
+    "versions": [
+        {
+            "label": "Interactive VM for OpenSees",
+            "description": "Runs OpenSees interactively and responds to errors in real time."
+        },
+        {
+            "label": "OpenSees-EXPRESS (VM)",
+            "description": "Runs on a single core with basic computer-resources requirements and is easy to use."
+        },
+        {
+            "label": "OpenSeesMP",
+            "description": "Runs all the processors in parallel. Requires understanding of parallel processing and the capabilities to write parallel scripts."
+        },
+        {
+            "label": "OpenSeesSP",
+            "description": "Parallel version driven by a single processor. Easy to use even with limited knowledge about parallel computing."
+        }
+    ],
+    "related_apps": [
+        "gid",
+        "stko"
+    ]
+}
