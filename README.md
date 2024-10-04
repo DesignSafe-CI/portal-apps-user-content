@@ -17,7 +17,7 @@ Collaborative content management for the [DesignSafe Tools & Apps](https://www.d
 
 - [Delete](https://docs.github.com/en/repositories/working-with-files/managing-files/deleting-files-in-a-repository#deleting-a-file) `logo.*`\
     <sup>(if logo exists)</sup>
-- [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) new `logo.*`.\
+- [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) `logo.*`.\
     <sup>(preferred formats: `.svg`, `.png`)</sup>
 
 ## What Happens Next
