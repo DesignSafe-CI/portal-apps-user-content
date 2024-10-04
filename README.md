@@ -19,4 +19,4 @@ Collaborative content management for the [DesignSafe Tools & Apps](https://www.d
 3. Changes merged will be migrated to [DesignSafe Tools & Apps](https://www.designsafe-ci.org/use-designsafe/tools-applications/).
 
 > [!NOTE]
-> Migration is still manual, so will not be immediate.
+> Migration is still manual, so it will not be immediate.
