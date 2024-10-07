@@ -64,7 +64,7 @@
         "ee-uq",
         "hydro-uq",
         "quofem",
-        "r2d-tool",
+        "r2d",
         "we-uq"
     ]
 }

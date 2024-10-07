@@ -1,0 +1,57 @@
+{
+    "name": "R2D",
+    "category": "Simulation",
+    "logo_path": "../_icons/All-Hazards.png",
+    "short_desc": "Facilitate high-resolution assessment the regional impact of natural hazards.",
+    "tags": [],
+    "is_popular": false,
+    "is_simcenter": true,
+    "license_type": "Open Source",
+    "long_desc": "The Regional Resilience Determination Tool (R2D) assesses regional impacts of natural hazard events with high-resolution simulations. It creates and launches simulation workflows to support investigations of disaster scenarios and probabilistic assessments, incorporating uncertainties in hazards and characteristics of the built environment. Users can evaluate assets or portfolios of structures exposed to hurricanes, earthquakes, and other hazards. The tool integrates resources for inventory creation, hazard characterization, and damage simulation, and supports user-defined models and methods. Results are provided in a standardized format for further impact and recovery analysis.",
+    "is_developed_by_simcenter": true,
+    "user_guide_desc": "",
+    "user_guide_link": "https://nheri-simcenter.github.io/R2D-Documentation/",
+    "other_guide_links": [
+        {
+            "text": "R2D Website",
+            "url": "https://simcenter.designsafe-ci.org/research-tools/r2dtool/"
+        },
+        {
+            "text": "Application Summary",
+            "url": "https://simcenter.designsafe-ci.org/media/filer_public/ae/8d/ae8d0092-6168-42f9-9f39-83fbb04f3527/r2d_appsheet_v42.pdf"
+        },
+        {
+            "text": "User Guide",
+            "url": "https://nheri-simcenter.github.io/R2D-Documentation/"
+        }
+    ],
+    "media_links_title": "Use Cases",
+    "media_links": [],
+    "official_links": [],
+    "citation_formats": [
+        {
+            "citation": "Frank McKenna, Stevan Gavrilovic, Jinyan Zhao, Kuanshi Zhong, Adam Zsarnoczay, Barbaros Cetiner, Sang-ri Yi, Aakash Bangalore Satish, Sina Naeimi, & Pedro Arduino. (2024). NHERI-SimCenter/R2DTool: Version 4.2.0 (v4.2.0). Zenodo. https://doi.org/10.5281/zenodo.11175489"
+        },
+        {
+            "citation": "Deierlein, G.G., McKenna, F., et al. (2020). A Cloud-Enabled Application Framework for Simulating Regional-Scale Impacts of Natural Hazards on the Built Environment. Frontiers in Built Environment. 6, 196. doi: 10.3389/fbuil.2020.558706."
+        }
+    ],
+    "citation_notice": "",
+    "versions": [
+        {
+            "label": "R2D (Download)",
+            "description": "Downloadable app that performs simulations locally or on DesignSafe computing resources."
+        },
+        {
+            "label": "R2D (Web Portal)",
+            "description": "Web portal app that performs simulations on DesignSafe computing resources."
+        }
+    ],
+    "related_apps": [
+        "ee-uq",
+        "hydro-uq",
+        "pbe",
+        "we-uq",
+        "quofem"
+    ]
+}
