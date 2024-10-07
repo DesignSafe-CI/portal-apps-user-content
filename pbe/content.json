@@ -1,0 +1,70 @@
+{
+    "name": "PBE",
+    "category": "Simulation",
+    "logo_path": "../_icons/All-Hazards.png",
+    "short_desc": "Assess structural performance from multiple hazards using probabilistic analysis.",
+    "tags": [],
+    "is_popular": false,
+    "is_simcenter": true,
+    "license_type": "Open Source",
+    "long_desc": "The Performance Based Engineering (PBE) Application simulates the impact of natural hazards on buildings or other structures using a probabilistic approach with the Pelicun damage and loss assessment engine. It integrates EE-UQ modules for open-source seismic response simulations and supports commercial tools and non-seismic hazards by importing external response data. Various uncertainties in damage and loss models can be represented and propagated through the analyses. Custom user-defined models and calculation methodologies are also supported. The PBE Application simulates the repair process of a building from damage and loss results through an integrated functional recovery tool. Outputs are provided in a standardized format for further analysis.",
+    "is_developed_by_simcenter": true,
+    "user_guide_desc": "",
+    "user_guide_link": "https://nheri-simcenter.github.io/PBE-Documentation/",
+    "other_guide_links": [
+        {
+            "text": "PBE Website",
+            "url": "https://simcenter.designsafe-ci.org/research-tools/pbe-application/"
+        },
+        {
+            "text": "Application Summary",
+            "url": "https://simcenter.designsafe-ci.org/media/filer_public/1d/eb/1deb9af1-edb1-4795-94f1-becfe31fb30c/pbe_appsheet_v34.pdf"
+        },
+        {
+            "text": "User Guide",
+            "url": "https://nheri-simcenter.github.io/PBE-Documentation/"
+        }
+    ],
+    "media_links_title": "Use Cases",
+    "media_links": [
+        {
+            "text": "3.1. FEMA P-58 Assessment Using External Demands",
+            "url": "https://nheri-simcenter.github.io/PBE-Documentation/common/user_manual/examples/desktop/pbdl-0001/README.html"
+        },
+        {
+            "text": "3.2. Shear Building: HAZUS Assessment",
+            "url": "https://nheri-simcenter.github.io/PBE-Documentation/common/user_manual/examples/desktop/pbdl-0002/README.html"
+        },
+        {
+            "text": "3.3. FEMA P-58 Assessment Using External Demands and REDi Recovery",
+            "url": "https://nheri-simcenter.github.io/PBE-Documentation/common/user_manual/examples/desktop/pbdl-0003/README.html"
+        }
+    ],
+    "official_links": [],
+    "citation_formats": [
+        {
+            "citation": "Adam Zsarnoczay, Frank McKenna, Charles Wang, Wael Elhaddad, Stevan Gavrilovic, Claudio Perez, Michael Gardner, Peter Mackenzie-Helnwein, & Noam-Elisha. (2024). NHERI-SimCenter/PBE: Version 3.4.0 (V3.4.0). Zenodo. https://doi.org/10.5281/zenodo.10902085"
+        },
+        {
+            "citation": "Deierlein, G.G., McKenna, F., et al. (2020). A Cloud-Enabled Application Framework for Simulating Regional-Scale Impacts of Natural Hazards on the Built Environment. Frontiers in Built Environment. 6, 196. doi: 10.3389/fbuil.2020.558706."
+        }
+    ],
+    "citation_notice": "",
+    "versions": [
+        {
+            "label": "PBE (Download)",
+            "description": "Downloadable app that performs simulations locally or on DesignSafe computing resources."
+        },
+        {
+            "label": "PBE (Web Portal)",
+            "description": "Web portal app that performs simulations on DesignSafe computing resources."
+        }
+    ],
+    "related_apps": [
+        "ee-uq",
+        "hydro-uq",
+        "r2d-tool",
+        "we-uq",
+        "quofem"
+    ]
+}
