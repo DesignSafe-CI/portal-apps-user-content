@@ -24,9 +24,9 @@ Collaborative content management for the [DesignSafe Tools & Apps](https://www.d
 
 ## What Happens Next
 
-1. We may request adjustments before we approve a Pull Request.
+1. We might request adjustments before we approve a Pull Request.
 2. We will merge approved Pull Requests.
 3. Changes we merge will be migrated to [DesignSafe Tools & Apps](https://www.designsafe-ci.org/use-designsafe/tools-applications/).
 
 > [!NOTE]
-> Migration is still manual, so it will not be immediate.
+> Migration is still manual, so it might not happen quickly.
