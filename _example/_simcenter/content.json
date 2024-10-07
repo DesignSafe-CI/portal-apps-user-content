@@ -12,7 +12,7 @@
     "license_type": "Open Source",
     "long_desc": "An introduction to the software and the most important data a new user must know. This should be less information than the user guide, but may use content from the user guide.",
     "is_developed_by_simcenter": true,
-    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "user_guide_desc": "",
     "user_guide_link": "https://www.designsafe-ci.org/user-guide/tools/____/____",
     "other_guide_links": [
         {
