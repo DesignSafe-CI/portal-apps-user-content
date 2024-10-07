@@ -1,0 +1,77 @@
+{
+    "name": "ADCIRC",
+    "category": "Simulation",
+    "logo_path": "",
+    "short_desc": "Coastal circulation and flooding model",
+    "tags": [
+        "Flood",
+        "Hurricane/Tropical Storm",
+        "Storm Surge"
+    ],
+    "is_popular": true,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+    "long_desc": "ADCIRC, ADvanced CIRCulation, is a system of computer programs for solving time-dependent, free surface circulation and transport problems in two and three dimensions. These programs utilize the finite element method in space allowing the use of highly flexible and unstructured grids. All of the available programs are NetCDF capable to support the express creation and sharing of array-oriented hurricane data.",
+    "user_guide_link": "https://www.designsafe-ci.org/user-guide/tools/____/____",
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "video_links": [
+        {
+            "text": "WEBINAR - The ADCIRC Suite of Storm Surge Simulators, March 6, 2019",
+            "url": "https://www.youtube.com/watch?v=YM8WfYV5su0"
+        },
+        {
+            "text": "Improving ADCIRC UX w/ DS - Parameter Customization & Outputs Visualization",
+            "url": "https://www.youtube.com/watch?v=PC-NPNsvaHk"
+        }
+    ],
+    "resource_links": [
+        {
+            "text": "ADCIRC GitHub",
+            "url": "https://github.com/adcirc"
+        },
+        {
+            "text": "ADCIRC Wiki",
+            "url": "https://wiki.adcirc.org/Main_Page"
+        },
+        {
+            "text": "ADCIRC Documentation",
+            "url": "https://adcirc.org/home/documentation/users-manuals-compile-options-faqs-wiki/"
+        },
+        {
+            "text": "ADCIRC Website",
+            "url": "https://adcirc.org/"
+        }
+    ],
+    "citation_formats": [
+        {
+            "label": "For ADCIRC",
+            "citation": "Joannes Westerink & Rick Luettich. (2014). Advanced Circulation (ADCIRC) Version NN [Computer software]. Retrieved from https://github.com/adcirc/adcirc"
+        },
+        {
+            "label": "For PADRIC SWAN",
+            "citation": "Joannes Westerink & Rick Luettich. (2014). Parallel Advanced Circulation (ADCIRC) SWAN Version NN [Computer software]. Retrieved from https://github.com/adcirc/adcirc"
+        },
+        {
+            "label": "For PADCRIC",
+            "citation": "Joannes Westerink & Rick Luettich. (2014). Parallel Advanced Circulation (PADCIRC) Version NN [Computer software]. Retrieved from https://github.com/adcirc/adcirc"
+        }
+    ],
+    "citation_notice": "Please, change \"Version NN\" to the version you used.",
+    "versions": [
+        {
+            "label": "ADCIRC v55",
+            "description": "Ideal for smaller simulations, and runs on a single node on Stampede3."
+        },
+        {
+            "label": "PADCIRC SWAN v55",
+            "description": "Resolves several issues previously associated with the coupling of wave and circulation models"
+        },
+        {
+            "label": "PADCIRC v55",
+            "description": "Parallel version of ADCIRC and uses multiple nodes. Ideal for larger simulations. Runtimes are subject to current wait times in the HPC job queues."
+        }
+    ],
+    "related_apps": [
+        "figuregen"
+    ]
+}
