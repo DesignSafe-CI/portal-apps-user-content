@@ -1,0 +1,70 @@
+{
+    "name": "LS-DYNA",
+    "category": "Simulation",
+    "logo_path": "../_icons/LS-DYNA.png",
+    "short_desc": "Conduct dynamic finite element analysis of complex physics.",
+    "tags": [
+        "Earthquake",
+        "Landslide",
+        "Tsunami",
+        "Storm Surge"
+    ],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Licensed",
+    "long_desc": "DesignSafe (through TACC) has negotiated with LSTC to allow LS-DYNA access on TACC systems for academic research. Users can submit a ticket requesting LS-DYNA access and are granted access upon verification with LSTC that they have an existing academic departmental license or that you acquire such license.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "user_guide_link": "https://designsafe-ci.org/user-guide/tools/simulation/lsdyna/",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://designsafe-ci.org/user-guide/tools/simulation/lsdyna/"
+        }
+    ],
+    "media_links_title": "Video Tutorials",
+    "media_links": [
+        {
+            "text": "WEBINAR - Using LS-Dyna on DesignSafe, May 14, 2019",
+            "url": "https://youtu.be/AKkZKp86bqk?si=caPSagPNn3htbt80"
+        },
+        {
+            "text": "LS-DYNA YouTube Video Tutorial Search Results",
+            "url": "https://www.youtube.com/results?search_query=ls-dyna+tutorial"
+        }
+    ],
+    "official_links": [
+        {
+            "text": "LS-DYNA Support Website",
+            "url": "https://www.dynasupport.com/"
+        },
+        {
+            "text": "Ansys: LS-DYNA Manuals",
+            "url": "https://lsdyna.ansys.com/manuals/"
+        },
+        {
+            "text": "Ansys: LS-DYNA Forum",
+            "url": "https://forum.ansys.com/forums/forum/discuss-simulation/ls-dyna/"
+        },
+        {
+            "text": "Ansys: LS-DYNA Website",
+            "url": "https://lsdyna.ansys.com/"
+        }
+    ],
+    "citation_intro": "LS-DYNA is standard, non-specialized, software and does not require citation, but please cite DesignSafe if you use LS-DYNA on DesignSafe.",
+    "citation_formats": [],
+    "citation_notice": "Please, change \"Version NN\" to the version you used.",
+    "versions": [
+        {
+            "label": "LS-DYNA",
+            "description": "LS-DYNA is used by the automobile, civil, aerospace, construction, military, manufacturing, and bioengineering industries. This package continues to contain more possibilities for calculating many complex, real world problems. Its origins and core-competency lie in highly nonlinear transient dynamic finite element analysis (FEA) using explicit time integration"
+        },
+        {
+            "label": "LS-PrePost (DCV)",
+            "description": "LS-PrePost is capable of importing, editing and exporting LS-DYNA keyword files for generating LS-DYNA input files. The new graphical interface of LS-PrePost can be operated intuitively by the icons and tool bars. It supports the latest Open-GL standards to provide fast rendering for fringe plots and animation results."
+        }
+    ],
+    "related_apps": [
+        "ansys"
+    ]
+}
