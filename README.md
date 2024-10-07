@@ -16,7 +16,7 @@ Collaborative content management for the [DesignSafe Tools & Apps](https://www.d
 ### How To Change Logo
 
 - [Edit](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) `logo_path` in `yourapp/content.json`.\
-    <sup>(if suitable  generic icon exists)</sup>
+    <sup>(if suitable [generic icon](./_icons) exists)</sup>
 - [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) `logo.*` to `yourapp/`.\
     <sup>(preferred formats: `.svg`, `.png`)</sup>
 - [Delete](https://docs.github.com/en/repositories/working-with-files/managing-files/deleting-files-in-a-repository#deleting-a-file) logo from `yourapp/`.\
