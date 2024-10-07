@@ -1,0 +1,59 @@
+{
+    "name": "WE-UQ",
+    "category": "Simulation",
+    "logo_path": "../_icons/All-Hazards.png",
+    "short_desc": "Assess the performance of a building to wind loading.",
+    "tags": [
+        "Hurricane/Tropical Storm"
+    ],
+    "is_popular": false,
+    "is_simcenter": true,
+    "license_type": "Open Source",
+    "long_desc": "The Wind Engineering with Uncertainty Quantification (WE-UQ) application enables simulation workflows to evaluate a structure's response to wind loading. It offers methods to generate wind force histories, create numerical models, and run simulations. Both deterministic and probabilistic simulations are supported, with uncertainties in wind events, models, and solvers automatically propagated to provide a probabilistic response description. Results can be used for sensitivity analysis or to train surrogate models.",
+    "is_developed_by_simcenter": true,
+    "user_guide_desc": "",
+    "user_guide_link": "https://nheri-simcenter.github.io/WE-UQ-Documentation/",
+    "other_guide_links": [
+        {
+            "text": "WE-UQ Website",
+            "url": "https://simcenter.designsafe-ci.org/research-tools/we-uq/"
+        },
+        {
+            "text": "Application Summary",
+            "url": "https://simcenter.designsafe-ci.org/media/filer_public/c7/8c/c78ced83-193e-48f7-8884-b83e974e4bba/we_appsheet-v33.pdf"
+        },
+        {
+            "text": "User Guide",
+            "url": "https://nheri-simcenter.github.io/WE-UQ-Documentation/"
+        }
+    ],
+    "media_links_title": "Use Cases",
+    "media_links": [],
+    "official_links": [],
+    "citation_formats": [
+        {
+            "citation": "Frank McKenna, Abiy Melaku, Fei Ding, Jiawei Wan, Peter Mackenzie-Helnwein, Sang-ri Yi, Michael Gardner, & Wael Elhaddad. (2024). NHERI-SimCenter/WE-UQ: Version 3.3.0 (v3.3.0). Zenodo. https://doi.org/10.5281/zenodo.11087165"
+        },
+        {
+            "citation": "Deierlein, G.G., McKenna, F., et al. (2020). A Cloud-Enabled Application Framework for Simulating Regional-Scale Impacts of Natural Hazards on the Built Environment. Frontiers in Built Environment. 6, 196. doi: 10.3389/fbuil.2020.558706."
+        }
+    ],
+    "citation_notice": "",
+    "versions": [
+        {
+            "label": "WE-UQ (Download)",
+            "description": "Downloadable app that performs simulations locally or on DesignSafe computing resources."
+        },
+        {
+            "label": "WE-UQ (Web Portal)",
+            "description": "Web portal app that performs simulations on DesignSafe computing resources."
+        }
+    ],
+    "related_apps": [
+        "ee-uq",
+        "hydro-uq",
+        "pbe",
+        "r2d",
+        "quofem"
+    ]
+}
