@@ -7,24 +7,27 @@
         "Earthquake",
         "Landslide"
     ],
+    // "tags" choices: "Tropical Storm", "Hurricane", "Fire", "Wind", "Pandemic", "Storm Surge", "Thunderstorm", "Tsunami", "Tornado", "Landslide", "Hurricane/Tropical Storm", "Flood", "Wildfire", "Extreme Temperatures", "Earthquake", "Drought"
     "is_popular": false,
     "is_simcenter": false,
     "license_type": "Open Source",
+        // "license_type" options: "Open Source", "Licensed"
     "long_desc": "An introduction to the software and the most important data a new user must know. This should be less information than the user guide, but may use content from the user guide.",
     "is_developed_by_simcenter": false,
     "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
     "user_guide_link": "https://www.designsafe-ci.org/user-guide/tools/____/____",
     "all_guide_links": [
         {
-            "text": "Another Guide",
-            "url": "https://example.com"
+            "text": "User Guide",
+            "url": "https://www.designsafe-ci.org/user-guide/tools/____/____"
         },
         {
-            "text": "Helpful Site",
+            "text": "Another Guide",
             "url": "https://example.org"
         }
     ],
     "media_links_title": "Video Tutorials",
+    // "media_links_title" standard values: "Video Tutorials" "Use Cases"
     "media_links": [
         {
             "text": "The Name of the Video Tutorial",
@@ -39,17 +42,21 @@
     ],
     "citation_intro": null,
     // "citation_intro" fallback: "Please include both of these citations if you use ____ on DesignSafe."
+    // "citation_intro" appears before citations
     "citation_formats": [
         {
             "label": "For Variant A",
+            // "label" is an optional property
             "citation": "John, D., Wilma, G., and Suzie, W. (2001) Name of the Software Cited A Version NN [Computer software]. University of City, State, http://that-software.that-university.edu."
         },
         {
             "label": "For Variant B",
+            // "label" is an optional property
             "citation": "Some, D., Another, G., and That, W. (2002) Name of the Software Cited B Version NN [Computer software].University of City, State, http://that-software.that-university.edu."
         }
     ],
     "citation_notice": "Please, change \"Version NN\" to the version you used.",
+    // "citation_notice" appears after citations
     "versions": [
         {
             "label": "Sofwtare Variant A",
