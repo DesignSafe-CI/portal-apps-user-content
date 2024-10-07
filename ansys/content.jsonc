@@ -1,7 +1,7 @@
 {
     "name": "Ansys",
     "category": "Simulation",
-    "logo_path": "../_icons/Ansys.png",
+    "logo_path": "../_icons/Ansys.svg",
     "short_desc": "Model how infrastructure is affected by various hazards.",
     "tags": [],
     "is_popular": false,

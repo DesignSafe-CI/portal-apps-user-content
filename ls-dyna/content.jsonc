@@ -1,7 +1,7 @@
 {
     "name": "LS-DYNA",
     "category": "Simulation",
-    "logo_path": "../_icons/LS-DYNA.png",
+    "logo_path": "../_icons/LS-DYNA.svg",
     "short_desc": "Conduct dynamic finite element analysis of complex physics.",
     "tags": [
         "Earthquake",

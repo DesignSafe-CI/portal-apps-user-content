@@ -1,7 +1,7 @@
 {
     "name": "quoFEM",
     "category": "Simulation",
-    "logo_path": "../_icons/All-Hazards.png",
+    "logo_path": "../_icons/All-Hazards.svg",
     "short_desc": "Advance the integration of uncertainty quantification and optimization.",
     "tags": [],
     "is_popular": false,

@@ -1,7 +1,7 @@
 {
     "name": "EE-UQ",
     "category": "Simulation",
-    "logo_path": "../_icons/All-Hazards.png",
+    "logo_path": "../_icons/All-Hazards.svg",
     "short_desc": "Determine the response of a structure to an earthquake.",
     "tags": [
         "Earthquake"

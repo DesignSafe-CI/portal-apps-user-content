@@ -1,7 +1,7 @@
 {
     "name": "PBE",
     "category": "Simulation",
-    "logo_path": "../_icons/All-Hazards.png",
+    "logo_path": "../_icons/All-Hazards.svg",
     "short_desc": "Assess structural performance from multiple hazards using probabilistic analysis.",
     "tags": [],
     "is_popular": false,

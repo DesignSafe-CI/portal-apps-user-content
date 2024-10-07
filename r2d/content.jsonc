@@ -1,7 +1,7 @@
 {
     "name": "R2D",
     "category": "Simulation",
-    "logo_path": "../_icons/All-Hazards.png",
+    "logo_path": "../_icons/All-Hazards.svg",
     "short_desc": "Facilitate high-resolution assessment the regional impact of natural hazards.",
     "tags": [],
     "is_popular": false,

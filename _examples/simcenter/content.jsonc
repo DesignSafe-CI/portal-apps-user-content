@@ -1,7 +1,7 @@
 {
     "name": "______",
     "category": "Simulation",
-    "logo_path": "../_icons/All-Hazards.png",
+    "logo_path": "../_icons/All-Hazards.svg",
     "short_desc": "A short phrase that simply states what the code does, nothing else.",
     "tags": [
         "Earthquake",
