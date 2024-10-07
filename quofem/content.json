@@ -3,10 +3,7 @@
     "category": "Simulation",
     "logo_path": "../_icons/All-Hazards.png",
     "short_desc": "Advance the integration of uncertainty quantification and optimization.",
-    "tags": [
-        "Earthquake",
-        "Landslide"
-    ],
+    "tags": [],
     "is_popular": false,
     "is_simcenter": true,
     "license_type": "Open Source",
