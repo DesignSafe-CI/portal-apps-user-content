@@ -1,0 +1,59 @@
+{
+    "name": "Hydro-UQ",
+    "category": "Simulation",
+    "logo_path": "../_icons/All-Hazards.png",
+    "short_desc": "Assess the performance of a building subjected to wave loading.",
+    "tags": [
+        "Tsunami",
+        "Storm Surge"
+    ],
+    "is_popular": false,
+    "is_simcenter": true,
+    "license_type": "Open Source",
+    "long_desc": "The Hydro-UQ application analyzes waterborne hazards (tsunamis, storm surges) and their impact on structures. It simulates events at project sites (prototype scale) and in digital twins of wave flumes (model scale). The application features three modules: (i) far-shore wave hazards via GeoClaw, (ii) near-shore/on-shore wave evolution using Computational Fluid Dynamics or the Material Point Method, and (iii) structural-geotechnical response in OpenSees. It supports both deterministic and probabilistic simulations, accounting for uncertainties in hazards, models, and solvers. These uncertainties are automatically propagated through the simulation to arrive at a probabilistic description of structural response. Probabilistic results can be used for sensitivity analysis or to train surrogate models.",
+    "is_developed_by_simcenter": true,
+    "user_guide_desc": "",
+    "user_guide_link": "https://nheri-simcenter.github.io/Hydro-Documentation/",
+    "other_guide_links": [
+        {
+            "text": "Hydro-UQ Website",
+            "url": "https://simcenter.designsafe-ci.org/research-tools/hydro-uq/"
+        },
+        {
+            "text": "Application Summary",
+            "url": "https://simcenter.designsafe-ci.org/media/filer_public/75/02/75025b73-548a-4ff5-b82b-a9a251410a31/hydrouq-appsheet-v31.pdf"
+        },
+        {
+            "text": "User Guide",
+            "url": "https://nheri-simcenter.github.io/Hydro-Documentation/"
+        }
+    ],
+    "video_links": [],
+    "resource_links": [],
+    "citation_formats": [
+        {
+            "citation": "Frank McKenna, Justin Bonus, Ajay B Harish, & Nicolette Lewis. (2024). NHERI-SimCenter/HydroUQ: Version 3.1.0 (v3.1.0). Zenodo. https://doi.org/10.5281/zenodo.10902090"
+        },
+        {
+            "citation": "Deierlein, G.G., McKenna, F., et al. (2020). A Cloud-Enabled Application Framework for Simulating Regional-Scale Impacts of Natural Hazards on the Built Environment. Frontiers in Built Environment. 6, 196. doi: 10.3389/fbuil.2020.558706."
+        }
+    ],
+    "citation_notice": "",
+    "versions": [
+        {
+            "label": "Hydro-UQ (Download)",
+            "description": "Downloadable app that performs simulations locally or on DesignSafe computing resources."
+        },
+        {
+            "label": "Hydro-UQ (Web Portal)",
+            "description": "Web portal app that performs simulations on DesignSafe computing resources."
+        }
+    ],
+    "related_apps": [
+        "ee-uq",
+        "pbe",
+        "r2d-tool",
+        "we-uq",
+        "quofem"
+    ]
+}
