@@ -40,7 +40,7 @@
             "url": "https://mpm.cb-geo.com/#/"
         }
     ],
-    "citation_intro": null,
+    "citation_intro": "",
     "citation_formats": [
         {
             "citation": "Kumar, K., Salmond, J., Kularathna, S., Wilkes, C., Tjung, E., Biscontin, G., & Soga, K. (2019). Scalable and modular material point method for large scale simulations. 2nd International Conference on the Material Point Method. Cambridge, UK. https://arxiv.org/abs/1909.13380"

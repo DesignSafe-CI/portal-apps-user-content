@@ -36,7 +36,7 @@
         }
     ],
     "official_links": [],
-    "citation_intro": null,
+    "citation_intro": "",
     // "citation_intro" fallback: "Please include both of these citations if you use ____ on DesignSafe."
     "citation_formats": [
         {
