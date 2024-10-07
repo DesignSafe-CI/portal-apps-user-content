@@ -28,6 +28,7 @@
     "media_links_title": "Use Cases",
     "media_links": [],
     "official_links": [],
+    "citation_intro": undefined,
     "citation_formats": [
         {
             "citation": "Frank McKenna, Sang-ri Yi, Aakash Bangalore Satish, Adam Zsarnoczay, Kuanshi Zhong, Michael Gardner, & Wael Elhaddad. (2023). NHERI-SimCenter/quoFEM: Version 3.5.0 (v3.5.0). Zenodo. https://doi.org/10.5281/zenodo.10443180"

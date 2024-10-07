@@ -31,6 +31,7 @@
     "media_links_title": "Use Cases",
     "media_links": [],
     "official_links": [],
+    "citation_intro": undefined,
     "citation_formats": [
         {
             "citation": "Frank McKenna, Justin Bonus, Ajay B Harish, & Nicolette Lewis. (2024). NHERI-SimCenter/HydroUQ: Version 3.1.0 (v3.1.0). Zenodo. https://doi.org/10.5281/zenodo.10902090"

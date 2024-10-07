@@ -37,6 +37,7 @@
             "url": "https://example.com/"
         }
     ],
+    "citation_intro": undefined,
     "citation_formats": [
         {
             "label": "For Variant A",

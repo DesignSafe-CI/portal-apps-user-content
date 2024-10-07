@@ -1,0 +1,51 @@
+{
+    "name": "Ansys",
+    "category": "Simulation",
+    "logo_path": "../_icons/Ansys.png",
+    "short_desc": "Model how infrastructure is affected by various hazards.",
+    "tags": [],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Licensed",
+    "long_desc": [
+        "Ansys suite of computational simulation products are available to DesignSafe users, including the structural analysis and computational fluid dynamics modules. Most simulations are performed using the Ansys Workbench system.",
+        "TACC's Ansys license is available only for non-commercial, academic use. To access Ansys please submit a ticket and provide your institutional affiliation and a brief statement confirming that you will use Ansys only for non-commercial, academic purposes."
+    ],
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started in the User Guide.",
+    "user_guide_link": "https://docs.tacc.utexas.edu/software/ansys/",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://docs.tacc.utexas.edu/software/ansys/"
+        }
+    ],
+    "media_links_title": "Video Tutorials",
+    "media_links": [],
+    "official_links": [
+        {
+            "text": "Ansys Website",
+            "url": "https://www.ansys.com/"
+        },
+        {
+            "text": "Ansys YouTube",
+            "url": "https://www.youtube.com/@ansysinc/featured"
+        }
+    ],
+    "citation_intro": "Ansys is standard, non-specialized, software and does not require citation, but please cite DesignSafe if you use Ansys on DesignSafe.",
+    "citation_formats": [],
+    "citation_notice": "",
+    "versions": [
+        {
+            "label": "Sofwtare Variant A",
+            "description": "Runs an app and responds to errors in real time."
+        },
+        {
+            "label": "Sofwtare Variant B",
+            "description": "Runs an app and responds to errors in false time."
+        }
+    ],
+    "related_apps": [
+        "opensees"
+    ]
+}
