@@ -53,8 +53,8 @@
     "related_apps": [
         "ee-uq",
         "pbe",
+        "quofem",
         "r2d-tool",
-        "we-uq",
-        "quofem"
+        "we-uq"
     ]
 }

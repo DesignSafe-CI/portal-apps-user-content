@@ -65,8 +65,8 @@
     "related_apps": [
         "hydro-uq",
         "pbe",
+        "quofem",
         "r2d-tool",
-        "we-uq",
-        "quofem"
+        "we-uq"
     ]
 }

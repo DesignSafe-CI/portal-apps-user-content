@@ -1,0 +1,60 @@
+{
+    "name": "quoFEM",
+    "category": "Simulation",
+    "logo_path": "../_icons/All-Hazards.png",
+    "short_desc": "Advance the integration of uncertainty quantification and optimization.",
+    "tags": [
+        "Earthquake",
+        "Landslide"
+    ],
+    "is_popular": false,
+    "is_simcenter": true,
+    "license_type": "Open Source",
+    "long_desc": "The Quantified Uncertainty with Optimization for the Finite Element Method (quoFEM) application facilitates Uncertainty Quantification (UQ) for various simulation models. It offers a user-friendly interface with OpenSees and other tools, and provides access to advanced probabilistic analysis algorithms. quoFEM supports global sensitivity analysis, reliability analysis, Bayesian calibration, surrogate modeling, Monte Carlo-type forward propagation, and deterministic optimization techniques. It makes robust and practical UQ algorithms more accessible to researchers and practitioners in the natural hazards engineering community.",
+    "is_developed_by_simcenter": true,
+    "user_guide_desc": "",
+    "user_guide_link": "https://nheri-simcenter.github.io/quoFEM-Documentation/",
+    "other_guide_links": [
+        {
+            "text": "quoFEM Website",
+            "url": "https://simcenter.designsafe-ci.org/research-tools/quofem-application/"
+        },
+        {
+            "text": "Application Summary",
+            "url": "https://simcenter.designsafe-ci.org/media/filer_public/fc/50/fc50c77e-e91c-45bf-b972-d9e94a0e7328/quofem_appsheet_v35.pdf"
+        },
+        {
+            "text": "User Guide",
+            "url": "https://nheri-simcenter.github.io/quoFEM-Documentation/"
+        }
+    ],
+    "media_links_title": "Use Cases",
+    "media_links": [],
+    "official_links": [],
+    "citation_formats": [
+        {
+            "citation": "Frank McKenna, Sang-ri Yi, Aakash Bangalore Satish, Adam Zsarnoczay, Kuanshi Zhong, Michael Gardner, & Wael Elhaddad. (2023). NHERI-SimCenter/quoFEM: Version 3.5.0 (v3.5.0). Zenodo. https://doi.org/10.5281/zenodo.10443180"
+        },
+        {
+            "citation": "Deierlein, G.G., McKenna, F., et al. (2020). A Cloud-Enabled Application Framework for Simulating Regional-Scale Impacts of Natural Hazards on the Built Environment. Frontiers in Built Environment. 6, 196. doi: 10.3389/fbuil.2020.558706."
+        }
+    ],
+    "citation_notice": "",
+    "versions": [
+        {
+            "label": "quoFEM (Download)",
+            "description": "Downloadable app that performs simulations locally or on DesignSafe computing resources."
+        },
+        {
+            "label": "quoFEM (Web Portal)",
+            "description": "Web portal app that performs simulations on DesignSafe computing resources."
+        }
+    ],
+    "related_apps": [
+        "ee-uq",
+        "hydro-uq",
+        "pbe",
+        "r2d-tool",
+        "we-uq"
+    ]
+}
