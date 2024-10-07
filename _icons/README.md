@@ -15,7 +15,7 @@ Official icons used on the [DesignSafe Tools & Apps](https://www.designsafe-ci.o
 1. Know [How to Contribute](../README.md#how-to-contribute).
 2. [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) `logo.*` to `yourapp/`.
 3. [Edit](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) `logo_path` in `yourapp/content.json`.\
-    <sup>([example](https://github.com/wesleyboar/ds-portal-apps-content/blob/967c93a/opensees/logo.png))</sup>
+    <sup>([example](https://github.com/wesleyboar/ds-portal-apps-content/blob/967c93a/opensees/content.json#L4))</sup>
 
 ## What Happens Next
 
