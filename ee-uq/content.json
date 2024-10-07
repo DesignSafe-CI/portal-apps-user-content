@@ -1,0 +1,71 @@
+{
+    "name": "EE-UQ",
+    "category": "Simulation",
+    "logo_path": "../_icons/All-Hazards.png",
+    "short_desc": "Determine the response of a structure to an earthquake.",
+    "tags": [
+        "Earthquake"
+    ],
+    "is_popular": false,
+    "is_simcenter": true,
+    "license_type": "Open Source",
+    "long_desc": "The Earthquake Engineering with Uncertainty Quantification (EE-UQ) application enables the creation and execution of simulation workflows to evaluate a structure's response to earthquakes. It offers tools to: 1) model seismic hazards with acceleration time histories, 2) build a numerical structure model, and 3) conduct both deterministic and probabilistic simulations. Probabilistic simulations account for uncertainties in seismic events, the structural model, and the solver, providing a probabilistic response description. Results can be used for sensitivity analysis or to train surrogate models.",
+    "is_developed_by_simcenter": true,
+    "user_guide_link": "https://nheri-simcenter.github.io/EE-UQ-Documentation/",
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "other_guide_links": [
+        {
+            "text": "EE-UQ Website",
+            "url": "https://simcenter.designsafe-ci.org/research-tools/ee-uq-application/"
+        },
+        {
+            "text": "Application Summary",
+            "url": "https://simcenter.designsafe-ci.org/media/filer_public/50/42/5042cbe2-b948-4713-8a8d-feca031c707d/ee_appsheet_v35.pdf"
+        },
+        {
+            "text": "User Guide",
+            "url": "https://nheri-simcenter.github.io/EE-UQ-Documentation/"
+        }
+    ],
+    "video_links": [
+        {
+            "text": "3.2. Including Spatial Variability in a Site Response Event",
+            "url": "https://nheri-simcenter.github.io/EE-UQ-Documentation/common/user_manual/examples/desktop/eeuq-0002/README.html"
+        },
+        {
+            "text": "3.3. Ground Motion Selection and Nonlinear Response Analysis",
+            "url": "https://nheri-simcenter.github.io/EE-UQ-Documentation/common/user_manual/examples/desktop/eeuq-0003/README.html"
+        },
+        {
+            "text": "3.4. AutoSDA and Nonlinear Response Analysis",
+            "url": "https://nheri-simcenter.github.io/EE-UQ-Documentation/common/user_manual/examples/desktop/eeuq-0004/README.html"
+        }
+    ],
+    "resource_links": [],
+    "citation_formats": [
+        {
+            "citation": "Frank McKenna, Kuanshi Zhong, Michael Gardner, Adam Zsarnoczay, Sang-ri Yi, Aakash Bangalore Satish, Charles Wang, & Wael Elhaddad. (2024). NHERI-SimCenter/EE-UQ: Version 3.5.0 (v3.5.0). Zenodo. https://doi.org/10.5281/zenodo.10902075"
+        },
+        {
+            "citation": "Deierlein, G.G., McKenna, F., et al. (2020). A Cloud-Enabled Application Framework for Simulating Regional-Scale Impacts of Natural Hazards on the Built Environment. Frontiers in Built Environment. 6, 196. doi: 10.3389/fbuil.2020.558706."
+        }
+    ],
+    "citation_notice": "Please, change \"Version NN\" to the version you used.",
+    "versions": [
+        {
+            "label": "EE-UQ (Download)",
+            "description": "Downloadable app that performs simulations locally or on DesignSafe computing resources."
+        },
+        {
+            "label": "EE-UQ (Web Portal)",
+            "description": "Web portal app that performs simulations on DesignSafe computing resources."
+        }
+    ],
+    "related_apps": [
+        "hydro-uq",
+        "pbe",
+        "r2d-tool",
+        "we-uq",
+        "quofem"
+    ]
+}
