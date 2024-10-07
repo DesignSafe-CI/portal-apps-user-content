@@ -15,7 +15,8 @@
     "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
     "user_guide_link": "https://www.designsafe-ci.org/user-guide/tools/simulation/opensees/opensees/#opensees-on-designsafe-quick-start",
     "other_guide_links": [],
-    "video_links": [
+    "media_links_title": "Video Tutorials",
+    "media_links": [
         {
             "text": "Running OpenSees on the DesignSafe CyberInfrastructure - Scalability by Design, Nov. 14, 2023",
             "url": "https://youtu.be/eC9e972lClk?si=xYIy7ni5q4NnLir6"

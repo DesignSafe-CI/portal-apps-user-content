@@ -27,7 +27,8 @@
             "url": "https://nheri-simcenter.github.io/EE-UQ-Documentation/"
         }
     ],
-    "video_links": [
+    "media_links_title": "Use Cases",
+    "media_links": [
         {
             "text": "3.2. Including Spatial Variability in a Site Response Event",
             "url": "https://nheri-simcenter.github.io/EE-UQ-Documentation/common/user_manual/examples/desktop/eeuq-0002/README.html"

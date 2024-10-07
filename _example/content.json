@@ -24,7 +24,8 @@
             "url": "https://example.org"
         }
     ],
-    "video_links": [
+    "media_links_title": "Video Tutorials",
+    "media_links": [
         {
             "text": "The Name of the Video Tutorial",
             "url": "https://youtu.be/___"
