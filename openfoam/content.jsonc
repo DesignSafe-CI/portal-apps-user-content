@@ -1,0 +1,57 @@
+{
+    "name": "OpenFOAM",
+    "category": "Simulation",
+    "logo_path": "../_icons/OpenFOAM.svg",
+    "short_desc": "Simulate and analyze fluid flow and heat transfer.",
+    "tags": [
+        "Flood",
+        "Tsunami",
+        "Storm Surge",
+        "Fire"
+    ],
+    // "tags" choices: "Tropical Storm", "Hurricane", "Fire", "Wind", "Pandemic", "Storm Surge", "Thunderstorm", "Tsunami", "Tornado", "Landslide", "Hurricane/Tropical Storm", "Flood", "Wildfire", "Extreme Temperatures", "Earthquake", "Drought"
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+        // "license_type" options: "Open Source", "Licensed"
+    "long_desc": "The OpenFOAM (Open Field Operation and Manipulation) CFD (Computational Fluid Dynamics) Toolbox is a free, open source CFD software package which has a large user base across most areas of engineering and science, from both commercial and academic organizations. OpenFOAM has an extensive range of features to solve anything from complex fluid flows involving chemical reactions, turbulence and heat transfer, to solid dynamics and electromagnetics. It includes tools for meshing, notably snappyHexMesh, a parallelised mesher for complex CAD geometries, and for pre- and post-processing. Almost everything (including meshing, and pre- and post-processing) runs in parallel as standard, enabling users to take full advantage of high performance computing resources.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started in the User Guide.",
+    "user_guide_link": "https://designsafe-ci.org/user-guide/tools/simulation/#openfoam-user-guide",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://designsafe-ci.org/user-guide/tools/simulation/#openfoam-user-guide"
+        }
+    ],
+    "media_links_title": "Video Tutorials",
+    "media_links": [
+        {
+            "text": "Fluid-Structure Interaction with OpenFOAM and OpenSees with Hydro-UQ",
+            "url": "https://youtu.be/j5R_bsVq6IU?si=5l02w9Yvwofo3ay3"
+        }
+    ],
+    "official_links": [
+        {
+            "text": "OpenFOAM Website",
+            "url": "https://www.openfoam.com/"
+        },
+        {
+            "text": "OpenFOAM User Guide",
+            "url": "https://doc.openfoam.com/2306/"
+        },
+        {
+            "text": "OpenFOAM Wiki",
+            "url": "https://wiki.openfoam.com/Main_Page"
+        }
+    ],
+    "citation_intro": "",
+    "citation_formats": [
+        {
+            "citation": "H. G. Weller, G. Tabor, H. Jasak, C. Fureby; A tensorial approach to computational continuum mechanics using object-oriented techniques. Comput. Phys. 1 November 1998; 12 (6): 620–631. https://doi.org/10.1063/1.168744"
+        }
+    ],
+    "citation_notice": "",
+    "versions": [],
+    "related_apps": []
+}
