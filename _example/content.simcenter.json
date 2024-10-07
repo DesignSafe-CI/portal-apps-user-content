@@ -1,0 +1,61 @@
+{
+    "name": "______",
+    "category": "Simulation",
+    "logo_path": "../_icons/All-Hazards.png",
+    "short_desc": "A short phrase that simply states what the code does, nothing else.",
+    "tags": [
+        "Earthquake",
+        "Landslide"
+    ],
+    "is_popular": false,
+    "is_simcenter": true,
+    "license_type": "Open Source",
+    "long_desc": "An introduction to the software and the most important data a new user must know. This should be less information than the user guide, but may use content from the user guide.",
+    "is_developed_by_simcenter": true,
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "user_guide_link": "https://www.designsafe-ci.org/user-guide/tools/____/____",
+    "other_guide_links": [
+        {
+            "text": "Another Guide",
+            "url": "https://example.com"
+        },
+        {
+            "text": "Helpful Site",
+            "url": "https://example.org"
+        }
+    ],
+    "video_links": [
+        {
+            "text": "The Name of the Video Tutorial",
+            "url": "https://youtu.be/___"
+        }
+    ],
+    "resource_links": [],
+    "citation_formats": [
+        {
+            "citation": "John, D., Wilma, G., and Suzie, W. (2001) Name of the Software Cited A Version NN [Computer software]. University of City, State, http://that-software.that-university.edu."
+        },
+        {
+            "citation": "Some, D., Another, G., and That, W. (2002) Name of the Software Cited B Version NN [Computer software]. University of City, State, http://that-software.that-university.edu."
+        }
+    ],
+    "citation_notice": "",
+    "versions": [
+        {
+            "label": "______ (Download)",
+            "description": "Downloadable app that performs simulations locally or on DesignSafe computing resources."
+        },
+        {
+            "label": "______ (Web Portal)",
+            "description": "Web portal app that performs simulations on DesignSafe computing resources."
+        }
+    ],
+    "related_apps": [
+        "ee-uq",
+        "hydro-uq",
+        "pbe",
+        "r2d-tool",
+        "we-uq",
+        "quofem"
+    ]
+}
