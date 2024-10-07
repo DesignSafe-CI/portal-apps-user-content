@@ -1,7 +1,7 @@
 {
     "name": "OpenSees",
     "category": "Simulation",
-    "logo_path": "./logo.png",
+    "logo_path": "../_icons/OpenSees.svg",
     "short_desc": "Geotechnical and structural simulation",
     "tags": [
         "Earthquake",
