@@ -16,12 +16,16 @@
     "user_guide_link": "https://www.designsafe-ci.org/user-guide/tools/____/____",
     "other_guide_links": [
         {
-            "text": "Another Guide",
-            "url": "https://example.com"
+            "text": "____ Website",
+            "url": "https://simcenter.designsafe-ci.org/research-tools/____"
         },
         {
-            "text": "Helpful Site",
-            "url": "https://example.org"
+            "text": "Application Summary",
+            "url": "https://simcenter.designsafe-ci.org/media/____"
+        },
+        {
+            "text": "User Guide",
+            "url": "https://nheri-simcenter.github.io/____"
         }
     ],
     "video_links": [
