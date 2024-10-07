@@ -45,7 +45,7 @@
             "url": "https://adcirc.org/"
         }
     ],
-    "citation_intro": undefined,
+    "citation_intro": null,
     "citation_formats": [
         {
             "label": "For ADCIRC",

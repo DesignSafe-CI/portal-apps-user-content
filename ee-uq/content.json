@@ -43,7 +43,7 @@
         }
     ],
     "official_links": [],
-    "citation_intro": undefined,
+    "citation_intro": null,
     "citation_formats": [
         {
             "citation": "Frank McKenna, Kuanshi Zhong, Michael Gardner, Adam Zsarnoczay, Sang-ri Yi, Aakash Bangalore Satish, Charles Wang, & Wael Elhaddad. (2024). NHERI-SimCenter/EE-UQ: Version 3.5.0 (v3.5.0). Zenodo. https://doi.org/10.5281/zenodo.10902075"

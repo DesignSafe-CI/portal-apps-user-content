@@ -37,7 +37,8 @@
             "url": "https://example.com/"
         }
     ],
-    "citation_intro": undefined,
+    "citation_intro": null,
+    // "citation_intro" fallback: "Please include both of these citations if you use ____ on DesignSafe."
     "citation_formats": [
         {
             "label": "For Variant A",
