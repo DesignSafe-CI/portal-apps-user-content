@@ -11,7 +11,7 @@
     "is_developed_by_simcenter": true,
     "user_guide_desc": "",
     "user_guide_link": "https://nheri-simcenter.github.io/R2D-Documentation/",
-    "other_guide_links": [
+    "all_guide_links": [
         {
             "text": "R2D Website",
             "url": "https://simcenter.designsafe-ci.org/research-tools/r2dtool/"

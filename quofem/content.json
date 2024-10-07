@@ -11,7 +11,7 @@
     "is_developed_by_simcenter": true,
     "user_guide_desc": "",
     "user_guide_link": "https://nheri-simcenter.github.io/quoFEM-Documentation/",
-    "other_guide_links": [
+    "all_guide_links": [
         {
             "text": "quoFEM Website",
             "url": "https://simcenter.designsafe-ci.org/research-tools/quofem-application/"

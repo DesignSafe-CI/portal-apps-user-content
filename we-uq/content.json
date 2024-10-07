@@ -13,7 +13,7 @@
     "is_developed_by_simcenter": true,
     "user_guide_desc": "",
     "user_guide_link": "https://nheri-simcenter.github.io/WE-UQ-Documentation/",
-    "other_guide_links": [
+    "all_guide_links": [
         {
             "text": "WE-UQ Website",
             "url": "https://simcenter.designsafe-ci.org/research-tools/we-uq/"

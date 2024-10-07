@@ -13,7 +13,7 @@
     "is_developed_by_simcenter": true,
     "user_guide_link": "https://nheri-simcenter.github.io/EE-UQ-Documentation/",
     "user_guide_desc": "",
-    "other_guide_links": [
+    "all_guide_links": [
         {
             "text": "EE-UQ Website",
             "url": "https://simcenter.designsafe-ci.org/research-tools/ee-uq-application/"

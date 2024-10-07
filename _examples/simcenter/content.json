@@ -14,7 +14,7 @@
     "is_developed_by_simcenter": true,
     "user_guide_desc": "",
     "user_guide_link": "https://www.designsafe-ci.org/user-guide/tools/____/____",
-    "other_guide_links": [
+    "all_guide_links": [
         {
             "text": "____ Website",
             "url": "https://simcenter.designsafe-ci.org/research-tools/____"
