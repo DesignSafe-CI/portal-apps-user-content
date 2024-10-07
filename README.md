@@ -8,7 +8,7 @@ Collaborative content management for the [DesignSafe Tools & Apps](https://www.d
     <sup>(unless you are a direct collaborator)</sup>
 2. [Edit](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) relevant files.\
     <sup>(e.g. `your-app/content.json`)\
-    (you can also [change the logo](#how-to-change-logo))</sup>
+    (you can also [change a logo](#how-to-change-logo))</sup>
 3. [Commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) your changes.
 4. [Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) a review.\
     <sup>(a.k.a. create a "Pull Request")</sup>
