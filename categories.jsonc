@@ -6,7 +6,9 @@
         // - Analysis
         // - Simulation
         // - Visualization
-        "<abbr title='Geographic Information System'>GIS</abbr>",
+        "GIS",
+        // "GIS" should be rendered as `<abbr title='Geographic Information System'>GIS</abbr>`
         "Hazard"
+        // "Hazard …" what? Prevention, Analysis, Simulation, Visualization?
     ]
 }
