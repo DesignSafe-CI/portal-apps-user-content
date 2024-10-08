@@ -1,0 +1,45 @@
+{
+    "name": "VisIt",
+    "category": "Visualization",
+    "logo_path": "../_icons/Generic-Vis.svg",
+    "short_desc": "Build configurable visualizations to analyze large datasets.",
+    "tags": [
+        "Earthquake"
+    ],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+    "long_desc": "VisIt is an open-source tool for interactive visualization, animation, and analysis of data. It handles projects from small desktop-sized to large-scale simulations, allowing users to create visualizations, animate them, apply various operators and expressions, and save the results for presentations.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "user_guide_link": "https://designsafe-ci.org/user-guide/tools/visualization/#visit-user-guide",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://designsafe-ci.org/user-guide/tools/visualization/#visit-user-guide"
+        }
+    ],
+    "media_links_title": "Video Tutorials",
+    "media_links": [
+        {
+            "text": "WEBINAR - Intro to Scientific Visualization Tools in DesignSafe, June 7, 2017",
+            "url": "https://youtu.be/DGp9Ijv99dY?si=4X7NGIuwmKTG4xMf"
+        }
+    ],
+    "official_links": [
+        {
+            "text": "VisIt Website",
+            "url": "https://visit-dav.github.io/visit-website/index.html"
+        }
+    ],
+    "citation_preface": null,
+    "citation_formats": [
+        {
+            "citation": [
+                "Childs, H., Brugger, E., Whitlock, B., Meredith, J., Ahern, S., Pugmire, D., Biagas, K., Miller, M. C., Harrison, C., Weber, G. H., Krishnan, H., Fogal, T., Sanderson, A., Garth, C., Bethel, E. W., Camp, D., Rubel, O., Durant, M., Favre, J. M., & Navratil, P. (2012). High Performance Visualization--Enabling Extreme-Scale Scientific Insight. https://doi.org/10.1201/b12985"
+            ]
+        }
+    ],
+    "versions": [],
+    "related_apps": []
+}
