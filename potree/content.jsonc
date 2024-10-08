@@ -1,0 +1,64 @@
+{
+    "name": "Potree",
+    "category": "Visualization",
+    "logo_path": "../_icons/Potree.svg",
+    "short_desc": "View and convert pointclouds to Potree format for very large LiDAR datasets.",
+    "tags": [],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+    "long_desc": "Potree is a free open-source WebGL based point cloud renderer for large point clouds.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "user_guide_link": "https://designsafe-ci.org/user-guide/tools/visualization/#potree-converter-user-guide",
+    "all_guide_links": [
+        {
+            "text": "Potree Viewer User Guide",
+            "url": "https://designsafe-ci.org/user-guide/tools/visualization/#potree-viewer-user-guide"
+        },
+        {
+            "text": "Potree Converter User Guide",
+            "url": "https://designsafe-ci.org/user-guide/tools/visualization/#potree-converter-user-guide"
+        }
+    ],
+    "media_links_title": "Video Tutorials",
+    "media_links": [
+        {
+            "text": "Using HazMapper Tools To Visualize & Interrogate Natural Hazards Reconnaissance Data | Jan. 24, 2023",
+            "url": "https://youtu.be/3ce8aSDgFmQ?si=30ZPlhQhY475FcOj"
+        },
+        {
+            "text": "YouTube \"Potree Tutorial\" Search Results",
+            "url": "https://www.youtube.com/results?search_query=potree+tutorial"
+        }
+    ],
+    "official_links": [
+        {
+            "text": "Potree Website",
+            "url": "https://potree.github.io/"
+        },
+        {
+            "text": "Potree GitHub",
+            "url": "https://github.com/potree/potree"
+        }
+    ],
+    "citation_preface": null,
+    "citation_formats": [
+        {
+            "citation": [
+                "Schütz, M., Ohrhallinger, S. and Wimmer, M. (2020), Fast Out-of-Core Octree Generation for Massive Point Clouds. Computer Graphics Forum, 39: 155-167. https://doi.org/10.1111/cgf.14134"
+            ]
+        }
+    ],
+    "versions": [
+        {
+            "label": "Potree Converter",
+            "description": "Convert pointclouds to Potree format. Output will be placed in the archive path of the job."
+        },
+        {
+            "label": "Potree Viewer",
+            "description": "View pointclouds in Potree format."
+        }
+    ],
+    "related_apps": []
+}
