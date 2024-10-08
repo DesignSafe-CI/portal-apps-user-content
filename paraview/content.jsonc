@@ -1,0 +1,64 @@
+{
+    "name": "ParaView",
+    "category": "Visualization",
+    "logo_path": "../_icons/Paraview.svg",
+    "short_desc": "Visualize datasets of all sizes on various systems.",
+    "tags": [],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+    "long_desc": "ParaView is an open-source, multi-platform data analysis and visualization application that can quickly build visualizations to analyze data using qualitative and quantitative techniques. ParaView was developed to analyze extremely large datasets using distributed memory computing resources.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "user_guide_link": "https://designsafe-ci.org/user-guide/tools/visualization/#paraview-user-guide",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://designsafe-ci.org/user-guide/tools/visualization/#paraview-user-guide"
+        }
+    ],
+    "media_links_title": "Video Tutorials",
+    "media_links": [
+        {
+            "text": "WEBINAR - Intro to Scientific Visualization Tools in DesignSafe, June 7, 2017",
+            "url": "https://youtu.be/DGp9Ijv99dY?si=XLqxpRX1KJ4pzCTP"
+        }
+    ],
+    "official_links": [
+        {
+            "text": "Paraview Website",
+            "url": "https://www.paraview.org/"
+        },
+        {
+            "text": "Paraview Wiki",
+            "url": "https://www.paraview.org/Wiki/ParaView"
+        },
+        {
+            "text": "Paraview Documentation",
+            "url": "https://docs.paraview.org/en/latest/"
+        }
+    ],
+    "citation_preface": null,
+    "citation_formats": [
+        {
+            "note": "Use either of these citations:"
+        },
+        {
+            "citation": [
+                "Ahrens, James, Geveci, Berk, Law, Charles, ParaView: An End-User Tool for Large Data Visualization, Visualization Handbook, Elsevier, 2005, ISBN-13: 9780123875822",
+                "Ayachit, Utkarsh, The ParaView Guide: A Parallel Visualization Application, Kitware, 2015, ISBN 9781930934306"
+            ]
+        }
+    ],
+    "versions": [
+        {
+            "label": "ParaView (Frontera) - V5.10.0",
+            "description": "Run an interactive Paraview session on Frontera. (Be sure to exit the Paraview application when you are finished with the session or any files saved will not be archived with the job.)"
+        },
+        {
+            "label": "ParaView (Lonestar6) - V5.10.0",
+            "description": "Run an interactive ParaView session on Lonestar 6."
+        }
+    ],
+    "related_apps": []
+}
