@@ -41,7 +41,7 @@
         }
     ],
     "official_links": [],
-    "citation_intro": null,
+    "citation_preface": null,
     "citation_formats": [
         {
             "citation": "Adam Zsarnoczay, Frank McKenna, Charles Wang, Wael Elhaddad, Stevan Gavrilovic, Claudio Perez, Michael Gardner, Peter Mackenzie-Helnwein, & Noam-Elisha. (2024). NHERI-SimCenter/PBE: Version 3.4.0 (V3.4.0). Zenodo. https://doi.org/10.5281/zenodo.10902085"
@@ -50,7 +50,6 @@
             "citation": "Deierlein, G.G., McKenna, F., et al. (2020). A Cloud-Enabled Application Framework for Simulating Regional-Scale Impacts of Natural Hazards on the Built Environment. Frontiers in Built Environment. 6, 196. doi: 10.3389/fbuil.2020.558706."
         }
     ],
-    "citation_notice": "",
     "versions": [
         {
             "label": "PBE (Download)",

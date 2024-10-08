@@ -34,13 +34,12 @@
             "url": "https://www.qgis.org/en/site/"
         }
     ],
-    "citation_intro": null,
+    "citation_preface": null,
     "citation_formats": [
         {
             "citation": "QGIS.org (YEAR). QGIS Geographic Information System. Open Source Geospatial Foundation Project. http://qgis.org"
         }
     ],
-    "citation_notice": "",
     "versions": [
         {
             "label": "QGIS Desktop 3.34",

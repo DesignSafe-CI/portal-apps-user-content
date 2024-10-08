@@ -1,3 +1,4 @@
+// For comments, see `./other/content.json`
 {
     "name": "______",
     "category": "Simulation",
@@ -36,8 +37,7 @@
         }
     ],
     "official_links": [],
-    "citation_intro": null,
-    // "citation_intro" fallback: "Please include both of these citations if you use ____ on DesignSafe."
+    "citation_preface": null,
     "citation_formats": [
         {
             "citation": "John, D., Wilma, G., and Suzie, W. (2001) Name of the Software Cited A Version NN [Computer software]. University of City, State, http://that-software.that-university.edu."
@@ -46,7 +46,6 @@
             "citation": "Some, D., Another, G., and That, W. (2002) Name of the Software Cited B Version NN [Computer software]. University of City, State, http://that-software.that-university.edu."
         }
     ],
-    "citation_notice": "",
     "versions": [
         {
             "label": "______ (Download)",

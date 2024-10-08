@@ -40,9 +40,8 @@
             "url": "https://example.com/"
         }
     ],
-    "citation_intro": null,
-    // "citation_intro" fallback: "Please include both of these citations if you use ____ on DesignSafe."
-    // "citation_intro" appears before citations
+    "citation_preface": null,
+    // "citation_preface" fallback: "Please include both of these citations if you use ____ on DesignSafe."
     "citation_formats": [
         {
             // "label": "For Variant A",
@@ -54,9 +53,9 @@
             // "label" is an optional property
             "citation": "Some, D., Another, G., and That, W. (2002) Name of the Software Cited B Version NN [Computer software].University of City, State, http://that-software.that-university.edu."
         }
+        //, { "note": "Please, change \"Version NN\" to the version you used." }
+        // "note" is currently only supported as a standalone property
     ],
-    "citation_notice": "Please, change \"Version NN\" to the version you used.",
-    // "citation_notice" appears after citations
     "versions": [
         {
             "label": "Software Variant A",

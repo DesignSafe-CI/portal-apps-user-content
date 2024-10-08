@@ -29,13 +29,12 @@
             "url": "https://ccht.ccee.ncsu.edu/category/software/figuregen/"
         }
     ],
-    "citation_intro": null,
+    "citation_preface": null,
     "citation_formats": [
         {
             "citation": "Some ADCIRC visualizations were produced with FigureGen (Dietrich et al., 2013)."
         }
     ],
-    "citation_notice": "",
     "versions": [
         {
             "label": "FigureGen Parallel",

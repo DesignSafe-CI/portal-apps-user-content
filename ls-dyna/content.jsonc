@@ -51,9 +51,8 @@
             "url": "https://lsdyna.ansys.com/"
         }
     ],
-    "citation_intro": "LS-DYNA is standard, non-specialized, software and does not require citation, but please cite DesignSafe if you use LS-DYNA on DesignSafe.",
+    "citation_preface": "LS-DYNA is standard, non-specialized, software and does not require citation, but please cite DesignSafe if you use LS-DYNA on DesignSafe.",
     "citation_formats": [],
-    "citation_notice": "Please, change \"Version NN\" to the version you used.",
     "versions": [
         {
             "label": "LS-DYNA",

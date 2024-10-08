@@ -38,13 +38,12 @@
             "url": "https://www.gidsimulation.com/"
         }
     ],
-    "citation_intro": null,
+    "citation_preface": null,
     "citation_formats": [
         {
             "citation": "GiD – The personal pre and post processor. c2020.  Barcelona (Spain): CIMNE; [accessed (year) (month) (date)]. www.gidsimulation.com."
         }
     ],
-    "citation_notice": "",
     "versions": [],
     "related_apps": [
         "opensees"

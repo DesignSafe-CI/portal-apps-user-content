@@ -45,7 +45,7 @@
             "url": "https://adcirc.org/"
         }
     ],
-    "citation_intro": null,
+    "citation_preface": null,
     "citation_formats": [
         {
             "label": "For ADCIRC",
@@ -58,9 +58,11 @@
         {
             "label": "For PADCRIC",
             "citation": "Joannes Westerink & Rick Luettich. (2014). Parallel Advanced Circulation (PADCIRC) Version NN [Computer software]. Retrieved from https://github.com/adcirc/adcirc"
+        },
+        {
+            "note": "Please, change \"Version NN\" to the version you used."
         }
     ],
-    "citation_notice": "Please, change \"Version NN\" to the version you used.",
     "versions": [
         {
             "label": "ADCIRC v55",

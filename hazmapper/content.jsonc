@@ -38,9 +38,8 @@
             "url": "https://example.com/"
         }
     ],
-    "citation_intro": "Hazmapper is built and maintained by DesignSafe, so please cite DesignSafe if you use Hazmapper.",
+    "citation_preface": "Hazmapper is built and maintained by DesignSafe, so please cite DesignSafe if you use Hazmapper.",
     "citation_formats": [],
-    "citation_notice": "",
     "versions": [],
     "related_apps": [
         "potree"

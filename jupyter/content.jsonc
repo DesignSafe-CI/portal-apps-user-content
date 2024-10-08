@@ -74,13 +74,12 @@
             "url": "https://jupyter-notebook.readthedocs.io/en/stable/"
         }
     ],
-    "citation_intro": null,
+    "citation_preface": null,
     "citation_formats": [
         {
             "citation": "Kluyver, Thomas, Ragan-Kelley, Benjamin, Pérez, Fernando, Granger, Brian, Bussonnier, Matthias, Frederic, Jonathan, Kelley, Kyle, Hamrick, Jessica, Grout, Jason, Corlay, Sylvain, Ivanov, Paul, Avila, Damián, Abdalla, Safia, Willing, Carol and Jupyter development team, (2016) Jupyter Notebooks – a publishing format for reproducible computational workflows. Loizides, Fernando and Scmidt, Birgit (eds.) In Positioning and Power in Academic Publishing: Players, Agents and Agendas. IOS Press. pp. 87-90 . (doi:10.3233/978-1-61499-649-1-87)."
         }
     ],
-    "citation_notice": "",
     "versions": [
         {
             "label": "Jupyter Hub",

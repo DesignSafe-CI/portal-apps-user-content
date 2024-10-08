@@ -60,14 +60,13 @@
             "url": "https://github.com/OpenSees/OpenSees"
         }
     ],
-    "citation_intro": null,
+    "citation_preface": null,
     "citation_formats": [
         {
             "label": "",
             "citation": "McKenna, F., Fenves, G. L, and Scott, M. H. (2000) Open System for Earthquake Engineering Simulation. University of California, Berkeley, http://opensees.berkeley.edu."
         }
     ],
-    "citation_notice": "",
     "versions": [
         {
             "label": "Interactive VM for OpenSees",

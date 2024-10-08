@@ -43,7 +43,7 @@
         }
     ],
     "official_links": [],
-    "citation_intro": null,
+    "citation_preface": null,
     "citation_formats": [
         {
             "citation": "Frank McKenna, Kuanshi Zhong, Michael Gardner, Adam Zsarnoczay, Sang-ri Yi, Aakash Bangalore Satish, Charles Wang, & Wael Elhaddad. (2024). NHERI-SimCenter/EE-UQ: Version 3.5.0 (v3.5.0). Zenodo. https://doi.org/10.5281/zenodo.10902075"
@@ -52,7 +52,6 @@
             "citation": "Deierlein, G.G., McKenna, F., et al. (2020). A Cloud-Enabled Application Framework for Simulating Regional-Scale Impacts of Natural Hazards on the Built Environment. Frontiers in Built Environment. 6, 196. doi: 10.3389/fbuil.2020.558706."
         }
     ],
-    "citation_notice": "Please, change \"Version NN\" to the version you used.",
     "versions": [
         {
             "label": "EE-UQ (Download)",

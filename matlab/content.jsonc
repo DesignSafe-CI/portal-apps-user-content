@@ -29,9 +29,8 @@
             "url": "https://www.mathworks.com/help/matlab/"
         }
     ],
-    "citation_intro": "MATLAB is standard, non-specialized, software and does not require citation, but please cite DesignSafe if you use MATLAB on DesignSafe.",
+    "citation_preface": "MATLAB is standard, non-specialized, software and does not require citation, but please cite DesignSafe if you use MATLAB on DesignSafe.",
     "citation_formats": [],
-    "citation_notice": "",
     "versions": [
         {
             "label": "MATLAB Batch",
