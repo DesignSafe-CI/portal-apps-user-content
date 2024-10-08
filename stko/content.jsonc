@@ -1,0 +1,55 @@
+{
+    "name": "STKO",
+    "category": "Visualization",
+    "logo_path": "../_icons/STKO.svg",
+    "short_desc": "Visualize data from OpenSees with this Scientific ToolKit for OpenSees (STKO).",
+    "tags": [
+        "Earthquake"
+    ],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Licensed",
+    "long_desc": "The Scientific ToolKit for OpenSees (STKO) is a data visualization tool for OpenSees, it creates an input (Tool Command Language, TCL) and output file, which can be read with its advanced graphic interface. The preprocessor features advanced CAD modeling tools and provides a comprehensive set of meshing algorithms. This application runs as an interactive STKO Desktop session on a virtual machine using VNC technology.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "user_guide_link": "https://designsafe-ci.org/user-guide/tools/visualization/#stko-user-guide",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://designsafe-ci.org/user-guide/tools/visualization/#stko-user-guide"
+        }
+    ],
+    "media_links_title": "Video Tutorials",
+    "media_links": [
+        {
+            "text": "Asdea: STKO YouTube Playlists",
+            "url": "https://www.youtube.com/@asdeasoftwaretechnology7930/playlists"
+        }
+    ],
+    "official_links": [
+        {
+            "text": "STKO Documentation",
+            "url": "https://asdea.eu/software/stko-documentation/"
+        },
+        {
+            "text": "Asdea: STKO YouTube",
+            "url": "https://www.youtube.com/@asdeasoftwaretechnology7930"
+        },
+        {
+            "text": "STKO Website",
+            "url": "https://asdea.eu/software/about-stko/"
+        }
+    ],
+    "citation_preface": null,
+    "citation_formats": [
+        {
+            "citation": [
+                "Petracca, M., Candeloro, F., & Camata, G. (2017). “STKO user manual”. ASDEA Software Technology, Pescara Italy"
+            ]
+        }
+    ],
+    "versions": [],
+    "related_apps": [
+        "opensees"
+    ]
+}
