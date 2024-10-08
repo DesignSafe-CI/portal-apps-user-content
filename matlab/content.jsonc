@@ -1,6 +1,6 @@
 {
     "name": "MATLAB",
-    "category": "Simulation",
+    "category": "Analysis",
     "logo_path": "../_icons/MATLAB.svg",
     "short_desc": "Analyze data, develop algorithms, and create models.",
     "tags": [],
