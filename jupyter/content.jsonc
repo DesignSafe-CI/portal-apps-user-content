@@ -1,16 +1,15 @@
 {
     "name": "Jupyter",
     "category": "Simulation",
-    "logo_path": "../_icons/All-Hazards.svg",
-    "short_desc": "The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.",
+    "logo_path": "../_icons/Jupyter.svg",
+    "short_desc": "Interpret python code into intuitive graphs and visualizations with these highly customizable notebooks.",
     "tags": [],
     "is_popular": true,
     "is_simcenter": false,
     "license_type": "Open Source",
-        // "license_type" options: "Open Source", "Licensed"
-    "long_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "long_desc": "An introduction to the software and the most important data a new user must know. This should be less information than the user guide, but may use content from the user guide.",
     "is_developed_by_simcenter": false,
-    "user_guide_desc": "An introduction to the software and the most important data a new user must know. This should be less information than the user guide, but may use content from the user guide.",
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
     "user_guide_link": "https://designsafe-ci.org/user-guide/tools/jupyterhub/",
     "all_guide_links": [
         {
