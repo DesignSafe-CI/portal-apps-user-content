@@ -28,7 +28,7 @@
     "media_links_title": "Use Cases",
     "media_links": [],
     "official_links": [],
-    "citation_intro": "",
+    "citation_intro": null,
     "citation_formats": [
         {
             "citation": "Frank McKenna, Stevan Gavrilovic, Jinyan Zhao, Kuanshi Zhong, Adam Zsarnoczay, Barbaros Cetiner, Sang-ri Yi, Aakash Bangalore Satish, Sina Naeimi, & Pedro Arduino. (2024). NHERI-SimCenter/R2DTool: Version 4.2.0 (v4.2.0). Zenodo. https://doi.org/10.5281/zenodo.11175489"

@@ -30,7 +30,7 @@
     "media_links_title": "Use Cases",
     "media_links": [],
     "official_links": [],
-    "citation_intro": "",
+    "citation_intro": null,
     "citation_formats": [
         {
             "citation": "Frank McKenna, Abiy Melaku, Fei Ding, Jiawei Wan, Peter Mackenzie-Helnwein, Sang-ri Yi, Michael Gardner, & Wael Elhaddad. (2024). NHERI-SimCenter/WE-UQ: Version 3.3.0 (v3.3.0). Zenodo. https://doi.org/10.5281/zenodo.11087165"

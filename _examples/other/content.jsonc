@@ -40,7 +40,7 @@
             "url": "https://example.com/"
         }
     ],
-    "citation_intro": "",
+    "citation_intro": null,
     // "citation_intro" fallback: "Please include both of these citations if you use ____ on DesignSafe."
     // "citation_intro" appears before citations
     "citation_formats": [

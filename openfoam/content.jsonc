@@ -45,7 +45,7 @@
             "url": "https://wiki.openfoam.com/Main_Page"
         }
     ],
-    "citation_intro": "",
+    "citation_intro": null,
     "citation_formats": [
         {
             "citation": "H. G. Weller, G. Tabor, H. Jasak, C. Fureby; A tensorial approach to computational continuum mechanics using object-oriented techniques. Comput. Phys. 1 November 1998; 12 (6): 620–631. https://doi.org/10.1063/1.168744"
