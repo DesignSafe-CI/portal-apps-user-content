@@ -45,12 +45,12 @@
     // "citation_intro" appears before citations
     "citation_formats": [
         {
-            "label": "For Variant A",
+            // "label": "For Variant A",
             // "label" is an optional property
             "citation": "John, D., Wilma, G., and Suzie, W. (2001) Name of the Software Cited A Version NN [Computer software]. University of City, State, http://that-software.that-university.edu."
         },
         {
-            "label": "For Variant B",
+            // "label": "For Variant B",
             // "label" is an optional property
             "citation": "Some, D., Another, G., and That, W. (2002) Name of the Software Cited B Version NN [Computer software].University of City, State, http://that-software.that-university.edu."
         }
