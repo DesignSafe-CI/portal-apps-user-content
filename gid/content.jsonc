@@ -1,0 +1,52 @@
+{
+    "name": "GiD",
+    "category": "Visualization",
+    "logo_path": "../_icons/GiD.svg",
+    "short_desc": "Create mesh geometry of physical structures for simulations. Useful for finite element modeling.",
+    "tags": [],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Licensed",
+    "long_desc": "FigureGen is a Fortran program that creates images for ADCIRC files. It reads mesh files, nodal attributes files, and output files; and plots contours, contour lines, and vectors. Use FigureGen to go directly from ADCIRC input and output files to presentation-quality figures, for one or multiple time snaps.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "user_guide_link": "https://www.gidsimulation.com/gid-for-science/support/manuals/",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://www.gidsimulation.com/gid-for-science/support/manuals/"
+        }
+    ],
+    "media_links_title": "Video Tutorials",
+    "media_links": [
+        {
+            "text": "GiD YouTube",
+            "url": "https://www.youtube.com/@GiDSIMULATION"
+        }
+    ],
+    "official_links": [
+        {
+            "text": "GiD GitHub",
+            "url": "https://github.com/GiDHome"
+        },
+        {
+            "text": "GiD Support",
+            "url": "https://www.gidsimulation.com/gid-for-science/support/"
+        },
+        {
+            "text": "GiD Website",
+            "url": "https://www.gidsimulation.com/"
+        }
+    ],
+    "citation_intro": null,
+    "citation_formats": [
+        {
+            "citation": "GiD – The personal pre and post processor. c2020.  Barcelona (Spain): CIMNE; [accessed (year) (month) (date)]. www.gidsimulation.com."
+        }
+    ],
+    "citation_notice": "",
+    "versions": [],
+    "related_apps": [
+        "opensees"
+    ]
+}
