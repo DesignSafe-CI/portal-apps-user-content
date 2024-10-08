@@ -1,0 +1,48 @@
+{
+    "name": "HSVRweb",
+    "category": "Analysis",
+    "logo_path": "../_icons/HVSR.svg",
+    "short_desc": "Analyze seismic data to assess site amplification.",
+    "tags": [
+        "Earthquake"
+    ],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+    "long_desc": "HVSRweb is a web application for horizontal-to-vertical spectral ratio (HVSR) processing. HVSRweb utilizes hvsrpy behind Dash to allow processing of ambient noise data in the cloud, with no installation required.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "user_guide_link": "https://www.designsafe-ci.org/user-guide/analysis/#hvsrweb-user-guide",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://www.designsafe-ci.org/user-guide/analysis/#hvsrweb-user-guide"
+        }
+    ],
+    "media_links_title": "Video Tutorials",
+    "media_links": [
+        {
+            "text": "HVSR of Ambient Noise for Earthquake Engineering: […] | Nov. 17, 2021",
+            "url": "https://youtu.be/UiXmSB_fneA?si=3z_IOP-NJP36RlhY"
+        }
+    ],
+    "official_links": [
+        {
+            "text": "HVSRweb GitHub",
+            "url": "https://github.com/jpvantassel/hvsrweb"
+        },
+        {
+            "text": "HVSRweb Website",
+            "url": "https://hvsrweb.designsafe-ci.org/"
+        }
+    ],
+    "citation_intro": null,
+    "citation_formats": [
+        {
+            "citation": "Vantassel, J.P., Cox, B.R., & Brannon, D.M. (2021). HVSRweb: An Open-Source, Web-Based Application for Horizontal-to-Vertical Spectral Ratio Processing. IFCEE 2021. https://doi.org/10.1061/9780784483428.005."
+        }
+    ],
+    "citation_notice": "",
+    "versions": [],
+    "related_apps": []
+}
