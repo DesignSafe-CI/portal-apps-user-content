@@ -12,7 +12,7 @@
     "is_popular": false,
     "is_simcenter": false,
     "license_type": "Licensed",
-    "long_desc": "DesignSafe (through TACC) has negotiated with LSTC to allow LS-DYNA access on TACC systems for academic research. Users can submit a ticket requesting LS-DYNA access and are granted access upon verification with LSTC that they have an existing academic departmental license or that you acquire such license.",
+    "long_desc": "DesignSafe (through TACC) has negotiated with LSTC to allow LS-DYNA access on TACC systems for academic research. Users can <a href=\"https://www.designsafe-ci.org/help/new-ticket/\">submit a ticket</a> requesting LS-DYNA access and are granted access upon verification with LSTC that they have an existing academic departmental license or that you acquire such license.",
     "is_developed_by_simcenter": false,
     "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
     "user_guide_link": "https://designsafe-ci.org/user-guide/tools/simulation/lsdyna/",

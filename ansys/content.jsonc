@@ -9,7 +9,7 @@
     "license_type": "Licensed",
     "long_desc": [
         "Ansys suite of computational simulation products are available to DesignSafe users, including the structural analysis and computational fluid dynamics modules. Most simulations are performed using the Ansys Workbench system.",
-        "TACC's Ansys license is available only for non-commercial, academic use. To access Ansys please submit a ticket and provide your institutional affiliation and a brief statement confirming that you will use Ansys only for non-commercial, academic purposes."
+        "TACC's Ansys license is available only for non-commercial, academic use. To access Ansys please <a href=\"https://www.designsafe-ci.org/help/new-ticket/\">submit a ticket</a> and provide your institutional affiliation and a brief statement confirming that you will use Ansys only for non-commercial, academic purposes."
     ],
     "is_developed_by_simcenter": false,
     "user_guide_desc": "Read step-by-step instructions on getting started in the User Guide.",
