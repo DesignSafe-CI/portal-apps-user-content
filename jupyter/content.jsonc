@@ -1,0 +1,103 @@
+{
+    "name": "Jupyter",
+    "category": "Simulation",
+    "logo_path": "../_icons/All-Hazards.svg",
+    "short_desc": "The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.",
+    "tags": [],
+    "is_popular": true,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+        // "license_type" options: "Open Source", "Licensed"
+    "long_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "An introduction to the software and the most important data a new user must know. This should be less information than the user guide, but may use content from the user guide.",
+    "user_guide_link": "https://designsafe-ci.org/user-guide/tools/jupyterhub/",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://designsafe-ci.org/user-guide/tools/jupyterhub/"
+        }
+    ],
+    "media_links_title": "Video Tutorials",
+    "media_links": [
+        {
+            "text": "WEBINAR - Unleashing Python and Jupyter in DesignSafe, March 1, 2017",
+            "url": "https://youtu.be/aQ-ovDNciA8?si=mmEf_SnnGxj_t2MA"
+        },
+        {
+            "text": "WEBINAR | PART 1 - Jupyter, Python, and the Scientific Workflow, Oct. 26, 2016",
+            "url": "https://youtu.be/i3sTeqivtkQ?si=I5poAz51FSxZIIkY"
+        },
+        {
+            "text": "WEBINAR | PART 2 - Jupyter, Python, and the Scientific Workflow, Oct. 26, 2016",
+            "url": "https://youtu.be/tLN6bgo1UUA?si=eNvYm7H2f6axn2Cv"
+        },
+        {
+            "text": "A Jupyter/Tapis workflow for processing, visualization, & analysis of experimental & field wind data",
+            "url": "https://youtu.be/C2McrpQ8XmI?si=OhjBaNxW_ZEqLTTS"
+        },
+        {
+            "text": "WEBINAR - Launching numerical simulations using Jupyter, March 28, 2018",
+            "url": "https://youtu.be/KEhQmGnHtPo?si=74WTDQ3Pq4I04Z0w"
+        },
+        {
+            "text": "WEBINAR - Data Analysis and Plotting using Jupyter and R, Nov. 9, 2016",
+            "url": "https://youtu.be/jHDrZrWfLow?si=UcvOdyum2RK2Pr0B"
+        },
+        {
+            "text": "WEBINAR - Leveraging Python, Jupyter Notebooks, DesignSafe, & the SimCenter, October 29, 2019",
+            "url": "https://youtu.be/5iSIK6wks5E?si=booeyYFWEwqzd-bf"
+        },
+        {
+            "text": "WEBINAR - Unleashing DesignSafe using Jupyter and R, March 29, 2017",
+            "url": "https://youtu.be/n6XUKfNXFWc?si=A6yge-OsBgYXdRCs"
+        },
+        {
+            "text": "Using DesignSafe’s JupyterHub and Python for Natural Hazards Research | April 14, 2022",
+            "url": "https://youtu.be/wpbRGdFzlFw?si=TXdzSvpd2Ug_vQvg"
+        },
+        {
+            "text": "WEBINAR - Leveraging OpenSees, Jupyter and DesignSafe: A Real World Walkthrough, May 3, 2017",
+            "url": "https://youtu.be/aglCV3BZoxE?si=-sZrUc_dK283pKIr"
+        }
+    ],
+    "official_links": [
+        {
+            "text": "Jupyter Website",
+            "url": "https://jupyter.org/"
+        },
+        {
+            "text": "Jupyter GitHub",
+            "url": "https://github.com/jupyter/notebook"
+        },
+        {
+            "text": "Jupyter Documentation",
+            "url": "https://jupyter-notebook.readthedocs.io/en/stable/"
+        }
+    ],
+    "citation_intro": null,
+    "citation_formats": [
+        {
+            "citation": "Kluyver, Thomas, Ragan-Kelley, Benjamin, Pérez, Fernando, Granger, Brian, Bussonnier, Matthias, Frederic, Jonathan, Kelley, Kyle, Hamrick, Jessica, Grout, Jason, Corlay, Sylvain, Ivanov, Paul, Avila, Damián, Abdalla, Safia, Willing, Carol and Jupyter development team, (2016) Jupyter Notebooks – a publishing format for reproducible computational workflows. Loizides, Fernando and Scmidt, Birgit (eds.) In Positioning and Power in Academic Publishing: Players, Agents and Agendas. IOS Press. pp. 87-90 . (doi:10.3233/978-1-61499-649-1-87)."
+        }
+    ],
+    "citation_notice": "",
+    "versions": [
+        {
+            "label": "Jupyter Hub",
+            "description": "Access the Jupyter ecosystem."
+        },
+        {
+            "label": "Jupyter Lab HPC (CPU)",
+            "description": "Launch an interactive Jupyter instance running on a Stampede3 compute node. Community Data, Publications, and your HPC Work directory will be available within the session."
+        },
+        {
+            "label": "Jupyter Lab HPC (GPU)",
+            "description": "Launch an interactive Jupyter instance running on a Frontera RTX node with CUDA enabled. Community Data, Publications, and your HPC Work directory will be available within the session."
+        }
+    ],
+    "related_apps": [
+        "ground-motion-portal",
+        "next-general-liquification"
+    ]
+}
