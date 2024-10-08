@@ -1,0 +1,50 @@
+{
+    "name": "MATLAB",
+    "category": "Simulation",
+    "logo_path": "../_icons/MATLAB.svg",
+    "short_desc": "Analyze data, develop algorithms, and create models.",
+    "tags": [],
+    "is_popular": true,
+    "is_simcenter": false,
+    "license_type": "Licensed",
+    "long_desc": [
+        "MATLAB (matrix laboratory) is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks.",
+        "MATLAB allows computing mathematical equations, matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages, including C, C++, C#, Java, Fortran and Python.",
+        "<a href=\"https://www.designsafe-ci.org/help/new-ticket/\">Submit a help ticket</a> to get your license submitted or approved."
+    ],
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "user_guide_link": "https://designsafe-ci.org/user-guide/analysis/#matlab-user-guide",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://designsafe-ci.org/user-guide/analysis/#matlab-user-guide"
+        }
+    ],
+    "media_links_title": "",
+    "media_links": [],
+    "official_links": [
+        {
+            "text": "MATLAB Documentation",
+            "url": "https://www.mathworks.com/help/matlab/"
+        }
+    ],
+    "citation_intro": "MATLAB is standard, non-specialized, software and does not require citation, but please cite DesignSafe if you use MATLAB on DesignSafe.",
+    "citation_formats": [],
+    "citation_notice": "",
+    "versions": [
+        {
+            "label": "MATLAB Batch",
+            "description": "MATLAB Batch is a non-interactive application to run *.m scipts, these sessions run on single node with 56 cores on Frontera."
+        },
+        {
+            "label": "MATLAB Interactive (DCV)",
+            "description": "Run an interactive MATLAB 2023a session on Frontera."
+        },
+        {
+            "label": "MATLAB Interactive (VM)",
+            "description": "Run an interactive MATLAB 2022b session on Virtual Machine."
+        }
+    ],
+    "related_apps": []
+}
