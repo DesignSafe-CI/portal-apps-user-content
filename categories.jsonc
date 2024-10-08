@@ -1,15 +1,12 @@
 {
     "title": "Applications",
     "columns": [
-        [
-            "Simulation",
-            "Utilities"
-        ],
-        [
-            "Analysis",
-            "GIS Tools",
-            "Visualization",
-            "Hazard Apps"
-        ]
+        "Data Analysis",
+        // "Data Analysis" formerly
+        // - Analysis
+        // - Simulation
+        // - Visualization
+        "<abbr title='Geographic Information System'>GIS</abbr>",
+        "Hazard"
     ]
 }
