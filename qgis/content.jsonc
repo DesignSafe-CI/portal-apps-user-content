@@ -1,0 +1,55 @@
+{
+    "name": "QGIS",
+    "category": "GIS Tools",
+    "logo_path": "../_icons/QGIS.svg",
+    "short_desc": "Create, edit, visualize and analyze geospatial information.",
+    "tags": [],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+    "long_desc": "QGIS is a free and open source Geographic Information System. Geospatial information can be created, edited, visualized and analyzed using this application.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "user_guide_link": "https://designsafe-ci.org/user-guide/tools/visualization/#qgis-desktop-user-guide",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://designsafe-ci.org/user-guide/tools/visualization/#qgis-desktop-user-guide"
+        }
+    ],
+    "media_links_title": "Video Tutorials",
+    // "media_links_title" standard values: "Video Tutorials" "Use Cases"
+    "media_links": [],
+    "official_links": [
+        {
+            "text": "QGIS GitHub",
+            "url": "https://github.com/qgis/QGIS"
+        },
+        {
+            "text": "QGIS User Guide",
+            "url": "https://docs.qgis.org/3.34/en/docs/user_manual/"
+        },
+        {
+            "text": "QGIS Website",
+            "url": "https://www.qgis.org/en/site/"
+        }
+    ],
+    "citation_intro": null,
+    "citation_formats": [
+        {
+            "citation": "QGIS.org (YEAR). QGIS Geographic Information System. Open Source Geospatial Foundation Project. http://qgis.org"
+        }
+    ],
+    "citation_notice": "",
+    "versions": [
+        {
+            "label": "QGIS Desktop 3.34",
+            "description": "Run an interactive QGIS session on the Stampede3 supercomputer. Work directly on your files rather than needing to copy them to and from the supercomputer."
+        },
+        {
+            "label": "QGIS Desktop 3.36 (VM)",
+            "description": "Run an interactive QGIS session on a virtual machine. Work directly on your files rather than needing to copy them to and from Stampede3."
+        }
+    ],
+    "related_apps": []
+}
