@@ -35,16 +35,7 @@
     "citation_intro": "Ansys is standard, non-specialized, software and does not require citation, but please cite DesignSafe if you use Ansys on DesignSafe.",
     "citation_formats": [],
     "citation_notice": "",
-    "versions": [
-        {
-            "label": "Sofwtare Variant A",
-            "description": "Runs an app and responds to errors in real time."
-        },
-        {
-            "label": "Sofwtare Variant B",
-            "description": "Runs an app and responds to errors in false time."
-        }
-    ],
+    "versions": [],
     "related_apps": [
         "ls-dyna"
     ]
