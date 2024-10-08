@@ -59,11 +59,11 @@
     // "citation_notice" appears after citations
     "versions": [
         {
-            "label": "Sofwtare Variant A",
+            "label": "Software Variant A",
             "description": "Runs an app and responds to errors in real time."
         },
         {
-            "label": "Sofwtare Variant B",
+            "label": "Software Variant B",
             "description": "Runs an app and responds to errors in false time."
         }
     ],
