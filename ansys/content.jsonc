@@ -12,7 +12,7 @@
         "TACC's Ansys license is available only for non-commercial, academic use. To access Ansys please <a href=\"https://www.designsafe-ci.org/help/new-ticket/\">submit a ticket</a> and provide your institutional affiliation and a brief statement confirming that you will use Ansys only for non-commercial, academic purposes."
     ],
     "is_developed_by_simcenter": false,
-    "user_guide_desc": "Read instructions and details in the User Guide.",
+    "user_guide_desc": "Read instructions and details in TACC's User Guide.",
     "user_guide_link": "https://docs.tacc.utexas.edu/software/ansys/",
     "all_guide_links": [
         {
