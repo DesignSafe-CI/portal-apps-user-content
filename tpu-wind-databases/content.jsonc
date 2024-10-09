@@ -1,0 +1,38 @@
+{
+    "name": "TPU Wind Databases",
+    "category": "Hazard Apps",
+    "logo_path": "../_icons/Wind.svg",
+    "short_desc": "Access wind pressure databases for buildings from wind tunnel tests.",
+    "tags": [
+        "Hurricane/Tropical Storm"
+    ],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+    "long_desc": "Wind pressure databases for isolated and non-isolated low-rise and tall buildings from wind tunnel tests by the Tokyo Polytechnic University, The School of Architecture & Wind Engineering.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "user_guide_link": "https://www.designsafe-ci.org/user-guide/tools/hazard/#tpu",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://www.designsafe-ci.org/user-guide/tools/hazard/#tpu"
+        }
+    ],
+    "media_links_title": "",
+    "media_links": [],
+    "official_links": [
+        {
+            "text": "TPU Wind Databases Website",
+            "url": "https://www.wind.arch.t-kougei.ac.jp/system/eng/contents/code/tpu"
+        }
+    ],
+    "citation_preface": null,
+    "citation_formats": [
+        {
+            "citation": "TUP Wind Databases [Software]. Tokyo Polytechnic University: The School of Architecture & Wind Engineering. https://www.wind.arch.t-kougei.ac.jp/system/eng/contents/code/tpu"
+        }
+    ],
+    "versions": [],
+    "related_apps": []
+}
