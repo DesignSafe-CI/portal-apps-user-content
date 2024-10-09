@@ -1,0 +1,38 @@
+{
+    "name": "Vortex-Winds: DEDM-HR",
+    "category": "Hazard Apps",
+    "logo_path": "../_icons/Wind.svg",
+    "short_desc": "Pool multiple databases of measurements collected through wind tunnel tests/experiments.",
+    "tags": [
+        "Hurricane/Tropical Storm"
+    ],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+    "long_desc": "VORTEX-Winds: Database-Enabled Design Module for High-Rise (DEDM-HR) pools databases of multiple high frequency base balance measurements through wind tunnel tests/experiments from geographically dispersed locations and merges them together to expand the number of available building configurations for preliminary design under winds.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "user_guide_link": "https://www.designsafe-ci.org/user-guide/tools/hazard/#vortex",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://www.designsafe-ci.org/user-guide/tools/hazard/#vortex"
+        }
+    ],
+    "media_links_title": "",
+    "media_links": [],
+    "official_links": [
+        {
+            "text": "VORTEX-Winds: DEDM-HR Website",
+            "url": "https://www.vortexwinds.org/"
+        }
+    ],
+    "citation_preface": null,
+    "citation_formats": [
+        {
+            "citation": "Kareem, A., & Kwon, D. K. (2017). A Cyber-Based Data-Enabled Virtual Organization for Wind Load Effects on Civil Infrastructures: VORTEX-Winds. In Frontiers in Built Environment (Vol. 3). Frontiers Media SA. https://doi.org/10.3389/fbuil.2017.00048"
+        }
+    ],
+    "versions": [],
+    "related_apps": []
+}
