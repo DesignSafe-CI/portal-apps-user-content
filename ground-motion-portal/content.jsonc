@@ -1,0 +1,48 @@
+{
+    "name": "Ground-Motion Portal",
+    "category": "Hazard Apps",
+    "logo_path": "../_icons/Earth.svg",
+    "short_desc": "Generate seismograms for historical and scenario earthquakes.",
+    "tags": [
+        "Earthquake"
+    ],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+    "long_desc": "The Southern California Earthquake Center (SCEC) Broadband Platform (BBP) is a software system that can generate 0-20+ Hz seismograms for historical and scenario earthquakes in California, Eastern North America, and Japan using several alternative computational methods.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
+    "user_guide_link": "https://designsafe-ci.org/user-guide/tools/hazard/#scec-bbp-ground-motion-portal-user-guide",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://designsafe-ci.org/user-guide/tools/hazard/#scec-bbp-ground-motion-portal-user-guide"
+        }
+    ],
+    "media_links_title": "",
+    "media_links": [],
+    "official_links": [
+        {
+            "text": "SCEC BBP GitHub",
+            "url": "https://github.com/SCECcode/bbp"
+        },
+        {
+            "text": "SCEC BBP Wiki",
+            "url": "https://github.com/SCECcode/bbp/wiki"
+        },
+        {
+            "text": "SCEC Website",
+            "url": "https://www.scec.org/"
+        }
+    ],
+    "citation_preface": null,
+    "citation_formats": [
+        {
+            "citation": "Maechling, P. J., F. Silva, S. Callaghan, and T. H. Jordan (2015). SCEC Broadband Platform: System Architecture and Software Implementation, Seismol. Res. Lett., 86, no. 1, doi: 10.1785/0220140125"
+        }
+    ],
+    "versions": [],
+    "related_apps": [
+        "jupyter"
+    ]
+}
