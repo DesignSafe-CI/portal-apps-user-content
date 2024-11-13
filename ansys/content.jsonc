@@ -10,6 +10,7 @@
     "long_desc": [
         "The Ansys suite of computational simulation products is available to DesignSafe users, including the structural analysis and computational fluid dynamics modules. Most simulations are performed using the Ansys Workbench system.",
         "TACC's Ansys license is available only for non-commercial, academic use. To access Ansys please <a href=\"https://www.designsafe-ci.org/help/new-ticket/\">submit a ticket</a> and provide your institutional affiliation and a brief statement confirming that you will use Ansys only for non-commercial, academic purposes."
+        "Ansys is only accessible by logging into TACC's supercomputers via <a href=\"https://tap.tacc.utexas.edu/\" target=\"_blank\">TACC Analysis Portal (TAP)</a> or Secure Shell (SSH). From there, you can charge your DesignSafe allocation."
     ],
     "is_developed_by_simcenter": false,
     "user_guide_desc": "Read instructions and details in TACC's User Guide.",
