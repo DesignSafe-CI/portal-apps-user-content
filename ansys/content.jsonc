@@ -13,7 +13,7 @@
         "Ansys is only accessible by logging into TACC's supercomputers via <a href=\"https://tap.tacc.utexas.edu/\" target=\"_blank\">TACC Analysis Portal (TAP)</a> or Secure Shell (SSH). From there, you can charge your DesignSafe allocation."
     ],
     "is_developed_by_simcenter": false,
-    "user_guide_desc": "Read step-by-step instructions on getting started in the User Guide.",
+    "user_guide_desc": "Read step-by-step instructions on getting started in TACC's User Guide.",
     "user_guide_link": "https://docs.tacc.utexas.edu/software/ansys/",
     "all_guide_links": [
         {
