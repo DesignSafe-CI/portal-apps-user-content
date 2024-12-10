@@ -1,0 +1,52 @@
+{
+    "name": "Kaplana",
+    "category": "Visualization",
+    "logo_path": "../_icons/Generic-Vis.svg",
+    "short_desc": "Convert ADCIRC output files to GIS-compatible shapefiles.",
+    "tags": [],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+    "long_desc": "Kalpana is a python script that converts ADCIRC output files to GIS-compatible shapefiles. The code accepts NetCDF formatted ADCIRC outputs for maximum water levels and wind speeds and converts these to polyline/polygon shapefiles.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started in the User Guide.",
+    "user_guide_link": "https://www.designsafe-ci.org/user-guide/tools/visualization/#kalpana-user-guide",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://designsafe-ci.org/user-guide/tools/visualization/#figuregen-user-guide"
+        }
+    ],
+    "media_links_title": "",
+    "media_links": [],
+    "official_links": [
+        {
+            "text": "Kalpana GitHub",
+            "url": "https://github.com/ccht-ncsu/Kalpana"
+        },
+        {
+            "text": "Kalpana Website",
+            "url": "https://ccht.ccee.ncsu.edu/kalpana/"
+        }
+    ],
+    "citation_preface": null,
+    "citation_formats": [
+        {
+            "citation": "Rucker, C.A., Tull, N., Dietrich, J.C., Langan, T.E., Mitasova, H., Blanton, B.O., Fleming, J.G. and Luettich, R.A., 2021. Downscaling of real-time coastal flooding predictions for decision support. Natural Hazards, 107, pp.1341-1369."
+        }
+    ],
+    "versions": [
+        {
+            "label": "FigureGen Parallel",
+            "description": "Creates images for ADCIRC files. Processes in parallel."
+        },
+        {
+            "label": "FigureGen Serial",
+            "description": "Creates images for ADCIRC files. Processes serially."
+        }
+    ],
+    "related_apps": [
+        "adcirc",
+        "figuregen"
+    ]
+}
