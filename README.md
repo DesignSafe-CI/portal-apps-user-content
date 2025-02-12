@@ -1,4 +1,4 @@
-# DesignSafe Portal Apps Content
+# DesignSafe Portal Apps User Content
 
 Collaborative content management for the [DesignSafe Tools & Apps](https://www.designsafe-ci.org/use-designsafe/tools-applications/) pages.
 
