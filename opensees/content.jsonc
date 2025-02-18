@@ -22,20 +22,16 @@
             "url": "https://youtu.be/eC9e972lClk?si=xYIy7ni5q4NnLir6"
         },
         {
-            "text": "Calibrating an OpenSees Material Model using Experimental Data in quoFEM, Dec. 10, 2021",
-            "url": "https://youtu.be/hLBB6nGld2M?si=7dBUGznidJlT2yjW"
-        },
-        {
-            "text": "Fluid-Structure Interaction with OpenFOAM and OpenSees with Hydro-UQ, Nov.19 2021",
-            "url": "https://youtu.be/j5R_bsVq6IU?si=54fHglx3mdsoKEI5"
-        },
-        {
             "text": "2021 DSA Hackathon: Automated Model Calibration for Cyclic Tests Using OpenSees & Jupyter Notebooks",
             "url": "https://youtu.be/ZK2U1XRQisY?si=g4YnNjq2O2UNgnGz"
         },
         {
             "text": "WEBINAR - Using OpenSeesPy on DesignSafe, May 22, 2019",
             "url": "https://youtu.be/lq9mESvpL74?si=sNH_YrWmosZx9KcE"
+        },
+        {
+            "text": "WEBINAR - OpenSees & DesignSafe, October 31, 2018",
+            "url": "https://www.youtube.com/watch?v=upMaiz79h7E"
         }
     ],
     "official_links": [
@@ -46,6 +42,18 @@
         {
             "text": "OpenSees GitHub",
             "url": "https://github.com/OpenSees/OpenSees"
+        },
+        {
+            "text": "OpenSees Wiki",
+            "url": "https://opensees.berkeley.edu/wiki/index.php/Main_Page"
+        },
+        {
+            "text": "OpenSees Documentation",
+            "url": "https://opensees.github.io/OpenSeesDocumentation/index.html"
+        },
+        {
+            "text": "OpenSeesPy Documentation",
+            "url": "https://openseespydoc.readthedocs.io/en/latest/index.html"
         }
     ],
     "citation_preface": null,
