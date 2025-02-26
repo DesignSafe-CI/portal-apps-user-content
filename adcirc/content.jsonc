@@ -2,7 +2,7 @@
     "name": "ADCIRC",
     "category": "Simulation",
     "logo_path": "./_icons/Water.svg",
-    "short_desc": "Coastal circulation and flooding model",
+    "short_desc": "Model coastal circulation and flooding.",
     "tags": [
         "Flood",
         "Hurricane/Tropical Storm",
