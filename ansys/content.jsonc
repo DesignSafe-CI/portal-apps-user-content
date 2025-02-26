@@ -2,7 +2,7 @@
     "name": "Ansys",
     "category": "Simulation",
     "logo_path": "../_icons/Ansys.svg",
-    "short_desc": "To model how various hazards affect infrastructure",
+    "short_desc": "Model how various hazards affect infrastructure",
     "tags": [],
     "is_popular": false,
     "is_simcenter": false,
