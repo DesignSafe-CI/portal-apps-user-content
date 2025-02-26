@@ -41,7 +41,11 @@
             "citation": "Maechling, P. J., F. Silva, S. Callaghan, and T. H. Jordan (2015). SCEC Broadband Platform: System Architecture and Software Implementation, Seismol. Res. Lett., 86, no. 1, doi: 10.1785/0220140125"
         }
     ],
-    "versions": [],
+    "versions": [
+        {
+            "url": "https://jupyter.designsafe-ci.org/hub/user-redirect/lab/tree/CommunityData/SCEC_BBP_GMportal/SCEC_BBP_GMportal_R2025.ipynb"
+        }
+    ],
     "related_apps": [
         "jupyter"
     ]
