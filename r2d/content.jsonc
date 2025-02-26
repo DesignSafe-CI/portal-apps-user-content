@@ -40,7 +40,8 @@
     "versions": [
         {
             "label": "R2D (Download)",
-            "description": "Downloadable app that performs simulations locally or on DesignSafe computing resources."
+            "description": "Downloadable app that performs simulations locally or on DesignSafe computing resources.",
+            "url": "/data/browser/public/designsafe.storage.community/SimCenter/Software/R2Dt"
         },
         {
             "label": "R2D (Web Portal)",
