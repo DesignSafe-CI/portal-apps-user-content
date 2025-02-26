@@ -43,6 +43,7 @@
     ],
     "versions": [
         {
+            // "label": "SCEC BBP Ground-Motion Portal",
             "url": "https://jupyter.designsafe-ci.org/hub/user-redirect/lab/tree/CommunityData/SCEC_BBP_GMportal/SCEC_BBP_GMportal_R2025.ipynb"
         }
     ],
