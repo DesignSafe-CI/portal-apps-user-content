@@ -2,6 +2,10 @@
 
 Collaborative content management for the [DesignSafe Tools & Apps](https://www.designsafe-ci.org/use-designsafe/tools-applications/) pages.
 
+## Related Repositories
+
+- [WMA Tapis Templates](https://github.com/TACC/WMA-Tapis-Templates/), configuration for DesignSafe applications.
+
 ## How to Contribute
 
 1. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository.\
