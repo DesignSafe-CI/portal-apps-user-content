@@ -4,7 +4,7 @@ Collaborative content management for the [DesignSafe Tools & Apps](https://www.d
 
 ## Related Repositories
 
-- [WMA Tapis Templates](https://github.com/TACC/WMA-Tapis-Templates/), configuration for DesignSafe applications.
+- [WMA Tapis Templates](https://github.com/TACC/WMA-Tapis-Templates/), configuration for applications that use [TAPIs](https://tacc.utexas.edu/research/tacc-research/tapis/).
 
 ## How to Contribute
 
