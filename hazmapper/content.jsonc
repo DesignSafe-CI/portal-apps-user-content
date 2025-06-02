@@ -35,7 +35,13 @@
     "official_links": [],
     "citation_preface": "Hazmapper is built and maintained by DesignSafe, so please cite DesignSafe if you use Hazmapper.",
     "citation_formats": [],
-    "versions": [],
+    "versions": [
+        {
+            "label": "Hazmapper",
+            "description": "Visualize, analyze, and share geospatial data.",
+            "url": "https://hazmapper.tacc.utexas.edu/hazmapper"
+        }
+    ],
     "related_apps": [
         "potree"
     ]
