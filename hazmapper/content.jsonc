@@ -32,12 +32,7 @@
             "url": "https://youtu.be/TLu3KU4UVXQ?si=Jw6DUP5t12sVK2Eo"
         }
     ],
-    "official_links": [
-        {
-            "text": "Example Website",
-            "url": "https://example.com/"
-        }
-    ],
+    "official_links": [],
     "citation_preface": "Hazmapper is built and maintained by DesignSafe, so please cite DesignSafe if you use Hazmapper.",
     "citation_formats": [],
     "versions": [],
