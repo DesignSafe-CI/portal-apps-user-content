@@ -1,0 +1,29 @@
+{
+    "name": "Taggit",
+    "category": "GIS Tools",
+    "logo_path": "../_icons/Hazmapper.svg",
+    "short_desc": "Browse and describe geospatial data.",
+    "tags": [],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+    "long_desc": "Created by DesignSafe, Taggit is a rich web based application for creating, browsing, and describing geospatial images.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions on getting started in the User Guide.",
+    "user_guide_link": "https://designsafe-ci.org/user-guide/tools/visualization/#taggit-user-guide-basic-image-browsing-and-mapping",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://designsafe-ci.org/user-guide/tools/visualization/#taggit-user-guide-basic-image-browsing-and-mapping"
+        }
+    ],
+    "media_links_title": "",
+    "media_links": [],
+    "official_links": [],
+    "citation_preface": "Taggit is built and maintained by DesignSafe, so please cite DesignSafe if you use Taggit.",
+    "citation_formats": [],
+    "versions": [],
+    "related_apps": [
+        "hazmapper"
+    ]
+}
