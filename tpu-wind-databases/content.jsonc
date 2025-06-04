@@ -33,6 +33,12 @@
             "citation": "TUP Wind Databases [Software]. Tokyo Polytechnic University: The School of Architecture & Wind Engineering. https://www.wind.arch.t-kougei.ac.jp/system/eng/contents/code/tpu"
         }
     ],
-    "versions": [],
+    "versions": [
+        {
+            // "label": "TPU Wind Databases",
+            // "description": "Wind pressure databases for buildings from wind tunnel tests",
+            "url": "http://www.wind.arch.t-kougei.ac.jp/system/eng/contents/code/tpu"
+        }
+    ],
     "related_apps": []
 }
