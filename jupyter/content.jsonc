@@ -83,7 +83,12 @@
     "versions": [
         {
             "label": "Jupyter Hub",
-            "description": "Access the Jupyter ecosystem."
+            "description": "Access the Jupyter ecosystem.",
+            "url": "https://jupyter.designsafe-ci.org/"
+        },
+        {
+            "label": "Jupyter Lab HPC Native",
+            "description": "Launch an interactive Jupyter instance on Vista. Community Data, Publications, and your HPC Work directory will be available within the session."
         },
         {
             "label": "Jupyter Lab HPC (CPU)",

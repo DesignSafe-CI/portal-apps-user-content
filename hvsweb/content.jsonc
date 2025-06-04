@@ -42,6 +42,10 @@
             "citation": "Vantassel, J.P., Cox, B.R., & Brannon, D.M. (2021). HVSRweb: An Open-Source, Web-Based Application for Horizontal-to-Vertical Spectral Ratio Processing. IFCEE 2021. https://doi.org/10.1061/9780784483428.005."
         }
     ],
-    "versions": [],
+    "versions": [
+        {
+            "url": "https://hvsrweb.designsafe-ci.org/"
+        }
+    ],
     "related_apps": []
 }
