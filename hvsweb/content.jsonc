@@ -44,6 +44,8 @@
     ],
     "versions": [
         {
+            // "label": "",
+            // "description": "Generate seismograms for historical and scenario earthquakes",
             "url": "https://hvsrweb.designsafe-ci.org/"
         }
     ],
