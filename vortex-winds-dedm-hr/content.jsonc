@@ -33,10 +33,12 @@
             "citation": "Kareem, A., & Kwon, D. K. (2017). A Cyber-Based Data-Enabled Virtual Organization for Wind Load Effects on Civil Infrastructures: VORTEX-Winds. In Frontiers in Built Environment (Vol. 3). Frontiers Media SA. https://doi.org/10.3389/fbuil.2017.00048"
         }
     ],
-    "versions": [{
-        // "label": "Vortex-Winds: DEDM-HR",
-        // "description": "Pools databases of multiple high frequency base balance measurements through wind tunnel tests/experiments",
-        "url": "http://evovw.ce.nd.edu/dadm/VW_design6_noauth1.html"
-    }],
+    "versions": [
+        {
+            // "label": "Vortex-Winds: DEDM-HR",
+            // "description": "Pools databases of multiple high frequency base balance measurements through wind tunnel tests/experiments",
+            "url": "http://evovw.ce.nd.edu/dadm/VW_design6_noauth1.html"
+        }
+    ],
     "related_apps": []
 }
