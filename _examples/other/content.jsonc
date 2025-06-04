@@ -63,8 +63,8 @@
         },
         {
             "label": "Software Variant B",
-            "description": "Runs an app and responds to errors in false time."
-            //, { "url": "https://jupyter.designsafe-ci.org/.../SOFTWARE_VARIANT_B.ipynb" }
+            "description": "Runs an app and responds to errors in false time.",
+            "url": "https://jupyter.designsafe-ci.org/.../SOFTWARE_VARIANT_B.ipynb"
             // "url" means the [Get Started] button should directly open that URL (instead of opening an app or a notice and a [Launch] button in the /workspace/)
             // For CMS Editors: "url" is the "External HREF:" field (even if it is an internal path)
         }

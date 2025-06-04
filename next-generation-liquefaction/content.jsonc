@@ -41,7 +41,13 @@
             "citation": "Brandenberg, S. J., Zimmaro, P., Stewart, J. P., Kwak, D. Y., Franke, K. W., Moss, R. E., Çetin, K. Ö., Can, G., Ilgac, M., Stamatakos, J., Weaver, T., & Kramer, S. L. (2020). Next-generation liquefaction database. In Earthquake Spectra (Vol. 36, Issue 2, pp. 939–959). SAGE Publications. https://doi.org/10.1177/8755293020902477"
         }
     ],
-    "versions": [],
+    "versions": [
+        {
+            // "label": "Next-Generation Liquefaction",
+            // "description": "Jupyter notebooks for the Next-Generation Liquefaction database.",
+            "url": "https://jupyter.designsafe-ci.org/hub/user-redirect/lab/tree/CommunityData/NGL"
+        }
+    ],
     "related_apps": [
         "jupyter"
     ]

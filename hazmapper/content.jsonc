@@ -37,8 +37,8 @@
     "citation_formats": [],
     "versions": [
         {
-            "label": "Hazmapper",
-            "description": "Visualize, analyze, and share geospatial data.",
+            // "label": "Hazmapper",
+            // "description": "Visualize, analyze, and share geospatial data.",
             "url": "https://hazmapper.tacc.utexas.edu/hazmapper"
         }
     ],
