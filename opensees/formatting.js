@@ -1,10 +1,10 @@
 // SEE: /admin/.../snippet/26
 // SEE: /use-designsafe/tools-applications/simulation/opensees/
 
-const interactiveVMapp = document.getElementById('app-var-6-v');
+const appElementIVM = document.getElementById('app-var-6-v');
 
-if (interactiveVMapp) {
-    const desc = interactiveVMapp.querySelector('p');
+if (appElementIVM) {
+    const desc = appElementIVM.querySelector('p');
     desc.innerHTML = desc.innerHTML
         // to soften voice
         .replace(
