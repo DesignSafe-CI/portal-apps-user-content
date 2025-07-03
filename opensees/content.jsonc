@@ -65,8 +65,8 @@
     ],
     "versions": [
         {
-            "label": "Interactive VM for OpenSees",
-            "description": "Runs OpenSees interactively and responds to errors in real time. If your connection fails, please use JupyterHub instead."
+            "label": "OpenSees on JupyterHub",
+            "description": "Run OpenSees interactively in a Jupyter environment."
         },
         {
             "label": "OpenSees-EXPRESS (VM)",
