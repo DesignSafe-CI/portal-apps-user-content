@@ -1,1 +1,10 @@
 /* STYLES FOR WORKSPACE.HTML */
+
+/* To add space between "View User Guide" and scrollbar */
+.ant-layout                         /* (the wrapper to which to add space) */
+:not(:has(.ant-layout))             /* (not the outermost one) */
+:has([class*="html-app-container"]) /* (the one with CMS editor content) */ {
+    /* value from `gap: 20px` */
+    /* https://github.com/DesignSafe-CI/portal/blob/v7.5.2/client/src/workspace/layouts/WorkspaceBaseLayout.tsx#L75 */
+    padding-right: 20px;
+}
