@@ -1,17 +1,1 @@
 /* STYLES FOR WORKSPACE.HTML */
-
-/* to align manual User Guide button to top right edge */
-/* IMPORTANT: Remove this upon DEPLOY of DesignSafe-CI/portal#1556 */
-[class*="html-app-container"] {
-    --space-between-content-and-right-edge: 1em;
-
-    position: relative;
-}
-[class*="html-app-container"] p:has(.btn-secondary) {
-    position: absolute;
-    right: var(--space-between-content-and-right-edge);
-    top: 0;
-}
-[class*="html-app-container"] p {
-    margin-right: var(--space-between-content-and-right-edge);
-}
