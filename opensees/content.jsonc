@@ -17,21 +17,21 @@
     "all_guide_links": [],
     "media_links_title": "Video Tutorials",
     "media_links": [
+          {
+            "text": "OpenSees-on-DesignSafe Training, Sep 17, 2025",
+            "url": "https://youtu.be/hexvyWy6G20?si=6z1DDshjDcDdlL0i"
+        },
         {
-            "text": "Running OpenSees on the DesignSafe CyberInfrastructure - Scalability by Design, Nov. 14, 2023",
+            "text": "Running OpenSees on the DesignSafe CyberInfrastructure - Scalability by Design, Nov 14, 2023",
             "url": "https://youtu.be/eC9e972lClk?si=xYIy7ni5q4NnLir6"
         },
         {
-            "text": "2021 DSA Hackathon: Automated Model Calibration for Cyclic Tests Using OpenSees & Jupyter Notebooks",
+            "text": "2021 DSA Hackathon: Automated Model Calibration for Cyclic Tests Using OpenSees & Jupyter Notebooks, Jul 27, 2021",
             "url": "https://youtu.be/ZK2U1XRQisY?si=g4YnNjq2O2UNgnGz"
         },
         {
             "text": "WEBINAR - Using OpenSeesPy on DesignSafe, May 22, 2019",
             "url": "https://youtu.be/lq9mESvpL74?si=sNH_YrWmosZx9KcE"
-        },
-        {
-            "text": "WEBINAR - OpenSees & DesignSafe, October 31, 2018",
-            "url": "https://www.youtube.com/watch?v=upMaiz79h7E"
         }
     ],
     "official_links": [
