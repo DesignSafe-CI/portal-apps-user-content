@@ -19,12 +19,16 @@
     "media_links_title": "Video Tutorials",
     "media_links": [
         {
-            "text": "WEBINAR - The ADCIRC Suite of Storm Surge Simulators, March 6, 2019",
-            "url": "https://www.youtube.com/watch?v=YM8WfYV5su0"
+            "text": "ADCIRC Storm Surge Modeling in DesignSafe 101, May 17, 2023",
+            "url": "https://www.youtube.com/watch?v=vHhV_B35FnY"
+        },
+         {
+            "text": "Improving ADCIRC UX w/ DS - Parameter Customization & Outputs Visualization, July 27, 2021",
+            "url": "https://www.youtube.com/watch?v=PC-NPNsvaHk"
         },
         {
-            "text": "Improving ADCIRC UX w/ DS - Parameter Customization & Outputs Visualization",
-            "url": "https://www.youtube.com/watch?v=PC-NPNsvaHk"
+            "text": "The ADCIRC Suite of Storm Surge Simulators, March 6, 2019",
+            "url": "https://www.youtube.com/watch?v=YM8WfYV5su0"
         }
     ],
     "official_links": [
