@@ -20,44 +20,36 @@
     "media_links_title": "Video Tutorials",
     "media_links": [
         {
-            "text": "WEBINAR - Unleashing Python and Jupyter in DesignSafe, March 1, 2017",
-            "url": "https://youtu.be/aQ-ovDNciA8?si=mmEf_SnnGxj_t2MA"
+            "text": "Physics-Informed Machine Learning for Engineering Applications, April 18, 2024",
+            "url": "https://www.youtube.com/watch?v=vJotIG5COF0&list=PL2GxvrdFrBlk31A0BhTFUGidpAbyJPXi4&index=9"
         },
         {
-            "text": "WEBINAR | PART 1 - Jupyter, Python, and the Scientific Workflow, Oct. 26, 2016",
-            "url": "https://youtu.be/i3sTeqivtkQ?si=I5poAz51FSxZIIkY"
+            "text": "Why Is My Python Script So Slow? (and a few solutions to speed it up), March 27, 2024",
+            "url": "https://www.youtube.com/watch?v=PfFHET55xF8&list=PL2GxvrdFrBlk31A0BhTFUGidpAbyJPXi4&index=10"
         },
         {
-            "text": "WEBINAR | PART 2 - Jupyter, Python, and the Scientific Workflow, Oct. 26, 2016",
-            "url": "https://youtu.be/tLN6bgo1UUA?si=eNvYm7H2f6axn2Cv"
+            "text": "Accelerating Python with Cython, Numba, and JAX, April 19, 2023",
+            "url": "https://www.youtube.com/watch?v=N3W4QE210vM&list=PL2GxvrdFrBlk31A0BhTFUGidpAbyJPXi4&index=17&t=27s"
         },
         {
-            "text": "A Jupyter/Tapis workflow for processing, visualization, & analysis of experimental & field wind data",
-            "url": "https://youtu.be/C2McrpQ8XmI?si=OhjBaNxW_ZEqLTTS"
-        },
-        {
-            "text": "WEBINAR - Launching numerical simulations using Jupyter, March 28, 2018",
-            "url": "https://youtu.be/KEhQmGnHtPo?si=74WTDQ3Pq4I04Z0w"
-        },
-        {
-            "text": "WEBINAR - Data Analysis and Plotting using Jupyter and R, Nov. 9, 2016",
-            "url": "https://youtu.be/jHDrZrWfLow?si=UcvOdyum2RK2Pr0B"
-        },
-        {
-            "text": "WEBINAR - Leveraging Python, Jupyter Notebooks, DesignSafe, & the SimCenter, October 29, 2019",
-            "url": "https://youtu.be/5iSIK6wks5E?si=booeyYFWEwqzd-bf"
-        },
-        {
-            "text": "WEBINAR - Unleashing DesignSafe using Jupyter and R, March 29, 2017",
-            "url": "https://youtu.be/n6XUKfNXFWc?si=A6yge-OsBgYXdRCs"
-        },
-        {
-            "text": "Using DesignSafe’s JupyterHub and Python for Natural Hazards Research | April 14, 2022",
+            "text": "Using DesignSafe’s JupyterHub and Python for Natural Hazards Research, April 14, 2022",
             "url": "https://youtu.be/wpbRGdFzlFw?si=TXdzSvpd2Ug_vQvg"
         },
         {
-            "text": "WEBINAR - Leveraging OpenSees, Jupyter and DesignSafe: A Real World Walkthrough, May 3, 2017",
-            "url": "https://youtu.be/aglCV3BZoxE?si=-sZrUc_dK283pKIr"
+            "text": "A Jupyter/Tapis workflow for processing, visualization, & analysis of experimental & field wind data, Feb 25, 2022",
+            "url": "https://youtu.be/C2McrpQ8XmI?si=OhjBaNxW_ZEqLTTS"
+        },
+        {
+            "text": "Interacting with Next Generation Liquefaction (NGL) Database Using Jupyter, October 20, 2021",
+            "url": "https://www.youtube.com/watch?v=TNOPOU4lx5w&list=PL2GxvrdFrBlk31A0BhTFUGidpAbyJPXi4&index=29"
+        },
+        {
+            "text": "Leveraging Python, Jupyter Notebooks, DesignSafe, & the SimCenter, October 29, 2019",
+            "url": "https://youtu.be/5iSIK6wks5E?si=booeyYFWEwqzd-bf"
+        },
+        {
+            "text": "Launching numerical simulations using Jupyter, March 28, 2018",
+            "url": "https://youtu.be/KEhQmGnHtPo?si=74WTDQ3Pq4I04Z0w"
         }
     ],
     "official_links": [
