@@ -20,10 +20,13 @@
     "media_links_title": "Video Tutorials",
     "media_links": [
         {
-            "text": "Physics-Informed Machine Learning for Engineering Applications, April 18, 2024",
-            "url": "https://www.youtube.com/watch?v=vJotIG5COF0&list=PL2GxvrdFrBlk31A0BhTFUGidpAbyJPXi4&index=9"
+            "text": "Introduction to Scientific Computing using DesignSafe JupyterHub, November 12, 2025",
+            "url": "https://www.youtube.com/watch?v=M7VMi8hAmSo"
         },
         {
+            "text": "Physics-Informed Machine Learning for Engineering Applications, April 18, 2024",
+            "url": "https://www.youtube.com/watch?v=vJotIG5COF0&list=PL2GxvrdFrBlk31A0BhTFUGidpAbyJPXi4&index=9"
+        },{
             "text": "Why Is My Python Script So Slow? (and a few solutions to speed it up), March 27, 2024",
             "url": "https://www.youtube.com/watch?v=PfFHET55xF8&list=PL2GxvrdFrBlk31A0BhTFUGidpAbyJPXi4&index=10"
         },
