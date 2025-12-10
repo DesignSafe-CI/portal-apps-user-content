@@ -10,11 +10,11 @@
     "long_desc": "Created by DesignSafe, Hazmapper is a rich web based application for creating, visualizing, and analyzing geospatial data in a variety of formats. Maps can be created and edited in the Hazmapper and shared with other researchers via the Data Depot.",
     "is_developed_by_simcenter": false,
     "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
-    "user_guide_link": "https://designsafe-ci.org/user-guide/tools/visualization/#hazmapper-user-guide",
+    "user_guide_link": "https://designsafe-ci.org/user-guide/tools/visualization/hazmapper/",
     "all_guide_links": [
         {
             "text": "User Guide",
-            "url": "https://designsafe-ci.org/user-guide/tools/visualization/#hazmapper-user-guide"
+            "url": "https://designsafe-ci.org/user-guide/tools/visualization/hazmapper/"
         }
     ],
     "media_links_title": "Video Tutorials",
