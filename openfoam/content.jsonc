@@ -17,11 +17,11 @@
     "long_desc": "The OpenFOAM (Open Field Operation and Manipulation) CFD (Computational Fluid Dynamics) Toolbox is a free, open source CFD software package which has a large user base across most areas of engineering and science, from both commercial and academic organizations. OpenFOAM has an extensive range of features to solve anything from complex fluid flows involving chemical reactions, turbulence and heat transfer, to solid dynamics and electromagnetics. It includes tools for meshing, notably snappyHexMesh, a parallelised mesher for complex CAD geometries, and for pre- and post-processing. Almost everything (including meshing, and pre- and post-processing) runs in parallel as standard, enabling users to take full advantage of high performance computing resources.",
     "is_developed_by_simcenter": false,
     "user_guide_desc": "Read step-by-step instructions on getting started in the User Guide.",
-    "user_guide_link": "https://designsafe-ci.org/user-guide/tools/simulation/#openfoam-user-guide",
+    "user_guide_link": "https://designsafe-ci.org/user-guide/tools/simulation/openfoam",
     "all_guide_links": [
         {
             "text": "User Guide",
-            "url": "https://designsafe-ci.org/user-guide/tools/simulation/#openfoam-user-guide"
+            "url": "https://designsafe-ci.org/user-guide/tools/simulation/openfoam"
         }
     ],
     "media_links_title": "Video Tutorials",
@@ -34,16 +34,12 @@
     "official_links": [
         {
             "text": "OpenFOAM Website",
-            "url": "https://www.openfoam.com/"
+            "url": "https://www.openfoam.org/"
         },
         {
             "text": "OpenFOAM User Guide",
-            "url": "https://doc.openfoam.com/2306/"
+            "url": "https://doc.cfd.direct/openfoam/user-guide-v12/index"
         },
-        {
-            "text": "OpenFOAM Wiki",
-            "url": "https://wiki.openfoam.com/Main_Page"
-        }
     ],
     "citation_preface": null,
     "citation_formats": [
