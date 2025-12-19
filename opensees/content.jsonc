@@ -80,6 +80,10 @@
         {
             "label": "OpenSeesSP",
             "description": "Parallel version driven by a single processor. Easy to use even with limited knowledge about parallel computing."
+        },
+        {
+            "label": "OpenSeesPy",
+            "description": ""
         }
     ],
     "related_apps": [
