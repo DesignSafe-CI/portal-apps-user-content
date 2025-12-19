@@ -83,7 +83,7 @@
         },
         {
             "label": "OpenSeesPy",
-            "description": ""
+            "description": "__NEW:__ Submit single or multi-processor jobs to Stampede3 using OpenSeesPy."
         }
     ],
     "related_apps": [
