@@ -8,9 +8,9 @@ const appElements = document.querySelectorAll('.s-app-version-list > article');
     // To convert markdown-style formatting to HTML
     desc.innerHTML = desc.innerHTML
         // To convert **bold** to <strong>
-        .replace(/(\*\*|__)(.+?)(\*\*|__)/g, '<strong>$1</strong>')
+        .replace(/(\*\*|__)(.+?)(\*\*|__)/g, '<strong>$2</strong>')
         // To convert *italic* to <em>
-        .replace(/(\*|_)(.+?)(\*|_)/g, '<em>$1</em>')
+        .replace(/(\*|_)(.+?)(\*|_)/g, '<em>$2</em>')
         // To convert [text](url) to <a href="url">text</a>
         // FAQ: extra `<span>` prevents style bug from HTML assumption in CSS
         // https://github.com/DesignSafe-CI/portal/blob/v7.4.1/designsafe/static/styles/app-version-list.css#L54-L64
