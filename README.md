@@ -10,7 +10,7 @@ Collaborative content management for the [DesignSafe Tools & Apps](https://www.d
 
 1. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository.\
     <sup>(unless you are a direct collaborator)</sup>
-2. [Edit](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) relevant files.\
+2. [Edit](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files)/[Add](https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files) relevant files.\
     <sup>(e.g. `your-app/content.json`)\
     (you can also [change a logo](#how-to-change-logo))</sup>
 3. [Commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) your changes.
