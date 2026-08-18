@@ -1,0 +1,23 @@
+{
+    "name": "Python App",
+    "category": "Analysis",
+    "logo_path": "../_icons/All-Hazards.svg",
+    "short_desc": "General-purpose app for workflows that do not have a dedicated DesignSafe app.",
+    "tags": [],
+    "is_popular": false,
+    "is_simcenter": false,
+    "license_type": "Open Source",
+    "long_desc": "This is the recommended general-purpose app for workflows that do not have a dedicated DesignSafe app: post-processing pipelines, parameter sweeps, mpi4py codes, machine-learning jobs, OpenSeesPy, and user-compiled solvers. Instead of registering a new app for each analysis type, you bring an input directory and a script; everything else is optional configuration.",
+    "is_developed_by_simcenter": false,
+    "user_guide_desc": "Read step-by-step instructions for getting started.",
+    "user_guide_link": "https://designsafe-ci.github.io/ds-workflows/python/",
+    "all_guide_links": [
+        {
+            "text": "User Guide",
+            "url": "https://designsafe-ci.github.io/ds-workflows/python/"
+        }
+    ],
+    "related_apps": [
+        "Jupyter"
+    ]
+}
