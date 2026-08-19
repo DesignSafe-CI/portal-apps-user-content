@@ -10,7 +10,6 @@
     "is_simcenter": false,
     "license_type": "Licensed",
     "long_desc": "The Scientific ToolKit for OpenSees (STKO) is a data visualization tool for OpenSees, it creates an input (Tool Command Language, TCL) and output file, which can be read with its advanced graphic interface. The preprocessor features advanced CAD modeling tools and provides a comprehensive set of meshing algorithms. This application runs as an interactive STKO Desktop session on a virtual machine using VNC technology.",
-    "is_developed_by_simcenter": false,
     "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
     "user_guide_link": "https://designsafe-ci.org/user-guide/tools/visualization/#stko-user-guide",
     "all_guide_links": [

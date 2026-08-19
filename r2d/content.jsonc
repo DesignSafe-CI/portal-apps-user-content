@@ -8,7 +8,6 @@
     "is_simcenter": true,
     "license_type": "Open Source",
     "long_desc": "The Regional Resilience Determination Tool (R2D) assesses regional impacts of natural hazard events with high-resolution simulations. It creates and launches simulation workflows to support investigations of disaster scenarios and probabilistic assessments, incorporating uncertainties in hazards and characteristics of the built environment. Users can evaluate assets or portfolios of structures exposed to hurricanes, earthquakes, and other hazards. The tool integrates resources for inventory creation, hazard characterization, and damage simulation, and supports user-defined models and methods. Results are provided in a standardized format for further impact and recovery analysis.",
-    "is_developed_by_simcenter": true,
     "user_guide_desc": "",
     "user_guide_link": "https://nheri-simcenter.github.io/R2D-Documentation/",
     "all_guide_links": [

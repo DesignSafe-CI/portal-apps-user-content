@@ -8,7 +8,6 @@
     "is_simcenter": true,
     "license_type": "Open Source",
     "long_desc": "The Performance Based Engineering (PBE) Application simulates the impact of natural hazards on buildings or other structures using a probabilistic approach with the Pelicun damage and loss assessment engine. It integrates EE-UQ modules for open-source seismic response simulations and supports commercial tools and non-seismic hazards by importing external response data. Various uncertainties in damage and loss models can be represented and propagated through the analyses. Custom user-defined models and calculation methodologies are also supported. The PBE Application simulates the repair process of a building from damage and loss results through an integrated functional recovery tool. Outputs are provided in a standardized format for further analysis.",
-    "is_developed_by_simcenter": true,
     "user_guide_desc": "",
     "user_guide_link": "https://nheri-simcenter.github.io/PBE-Documentation/",
     "all_guide_links": [
