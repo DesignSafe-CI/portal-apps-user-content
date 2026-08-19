@@ -1,8 +1,7 @@
 # `content.jsonc` Schema
 
 Each app folder (e.g. `we-uq/`) contains one `content.jsonc` file. Its fields
-become the content of that app's [DesignSafe Tools & Apps](https://www.designsafe-ci.org/use-designsafe/tools-applications/)
-page. See [`_examples/other/content.jsonc`](_examples/other/content.jsonc) and
+become the content of that app's [DesignSafe Tools & Apps](https://www.designsafe-ci.org/use-designsafe/tools-applications/) page. See [`_examples/other/content.jsonc`](_examples/other/content.jsonc) and
 [`_examples/simcenter/content.jsonc`](_examples/simcenter/content.jsonc) for
 annotated templates to copy from.
 
@@ -28,8 +27,8 @@ annotated templates to copy from.
 | `versions` | array | No | Selectable versions/launch options for the app. Each entry: `{ "label": string, "description": string, "url"?: string }`. If `url` is present, the "Get Started" button links directly to it instead of opening the app/workspace (for CMS editors, this is the "External HREF:" field). |
 | `related_apps` | string[] | No | Folder-name slugs of related apps, shown in a "Related Applications" section. |
 
-## Notes
+> [!TIP]
+> `//` line comments are allowed anywhere (it's JSONC), and are used throughout `_examples/` to annotate fields inline.
 
-- Fields marked "No" under Required are entirely omittable — see [`python-app/content.jsonc`](python-app/content.jsonc), which has none of `versions`, `official_links`, `media_links_title`, `media_links`, `citation_preface`, or `citation_formats`.
-- `//` line comments are allowed anywhere (it's JSONC), and are used throughout `_examples/` to annotate fields inline.
-- This repo's data is manually turned into the live pages; nothing here is auto-rendered, so field values (like the SimCenter notice above) must match what's manually published.
+> [!NOTE]
+> This repo's data is manually turned into the live pages; nothing here is auto-rendered yet, so if live pages do not match, blame a human not the data.
