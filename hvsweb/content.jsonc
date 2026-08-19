@@ -10,7 +10,6 @@
     "is_simcenter": false,
     "license_type": "Open Source",
     "long_desc": "HVSRweb is a web application for horizontal-to-vertical spectral ratio (HVSR) processing. HVSRweb utilizes hvsrpy behind Dash to allow processing of ambient noise data in the cloud, with no installation required.",
-    "is_developed_by_simcenter": false,
     "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
     "user_guide_link": "https://www.designsafe-ci.org/user-guide/analysis/#hvsrweb-user-guide",
     "all_guide_links": [

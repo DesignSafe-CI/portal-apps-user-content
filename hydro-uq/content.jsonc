@@ -11,7 +11,6 @@
     "is_simcenter": true,
     "license_type": "Open Source",
     "long_desc": "The Hydro-UQ application analyzes waterborne hazards (tsunamis, storm surges) and their impact on structures. It simulates events at project sites (prototype scale) and in digital twins of wave flumes (model scale). The application features three modules: (i) far-shore wave hazards via GeoClaw, (ii) near-shore/on-shore wave evolution using Computational Fluid Dynamics or the Material Point Method, and (iii) structural-geotechnical response in OpenSees. It supports both deterministic and probabilistic simulations, accounting for uncertainties in hazards, models, and solvers. These uncertainties are automatically propagated through the simulation to arrive at a probabilistic description of structural response. Probabilistic results can be used for sensitivity analysis or to train surrogate models.",
-    "is_developed_by_simcenter": true,
     "user_guide_desc": "",
     "user_guide_link": "https://nheri-simcenter.github.io/Hydro-Documentation/",
     "all_guide_links": [

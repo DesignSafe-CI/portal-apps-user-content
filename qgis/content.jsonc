@@ -8,7 +8,6 @@
     "is_simcenter": false,
     "license_type": "Open Source",
     "long_desc": "QGIS is a free and open source Geographic Information System. Geospatial information can be created, edited, visualized and analyzed using this application.",
-    "is_developed_by_simcenter": false,
     "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
     "user_guide_link": "https://designsafe-ci.org/user-guide/tools/visualization/#qgis-desktop-user-guide",
     "all_guide_links": [
