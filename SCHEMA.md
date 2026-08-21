@@ -19,12 +19,12 @@ annotated templates to copy from.
 | `user_guide_desc` | string | Yes (`""` allowed) | Caption shown above the guide links section. |
 | `user_guide_link` | string | Yes | URL for the primary user guide; used for the main "Learn How to Use" link. |
 | `all_guide_links` | `{text, url}[]` | Yes | Guide/reference links shown together (e.g. Website, Application Summary, User Guide). |
-| `media_links_title` | string | Yes (`""` allowed) | Heading for `media_links`. Standard values: `"Video Tutorials"`, `"Use Cases"`. |
+| `media_links_title` | string | If `media_links` Has Value | Heading for `media_links`. Standard values: `"Video Tutorials"`, `"Use Cases"`. |
 | `media_links` | `{text, url}[]` | No | Tutorial video or use-case links. |
 | `official_links` | `{text, url}[]` | No | External links to the vendor/project's own site, GitHub, YouTube, etc. |
 | `citation_preface` | string \| null | No | Sentence shown above the citation list (e.g. `"Please include both of these citations if you use ___ on DesignSafe."`). Use `null` to omit. |
 | `citation_formats` | array | No | List of citation entries, in order. Each entry is one of:<br>• `{ "citation": string, "label"?: string }` — `label` distinguishes variants (e.g. `"For ADCIRC"`).<br>• `{ "note": string }` — a standalone freeform note interspersed in the list (e.g. reminding the user to update a version number). |
-| `versions` | array | No | Selectable versions/launch options for the app. Each entry: `{ "label": string, "description": string, "url"?: string }`. If `url` is present, the "Get Started" button links directly to it instead of opening the app/workspace (for CMS editors, this is the "External HREF:" field). |
+| `versions` | array | No | Selectable versions/launch options for the app. Each entry: `{ "label"?: string, "description"?: string, "url"?: string }`. If `url` is present, the "Get Started" button links directly to it instead of opening the app/workspace (for CMS editors, this is the "External HREF:" field). |
 | `related_apps` | string[] | No | Folder-name slugs of related apps, shown in a "Related Applications" section. |
 
 > [!TIP]
