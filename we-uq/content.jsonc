@@ -10,7 +10,6 @@
     "is_simcenter": true,
     "license_type": "Open Source",
     "long_desc": "The Wind Engineering with Uncertainty Quantification (WE-UQ) application enables simulation workflows to evaluate a structure's response to wind loading. It offers methods to generate wind force histories, create numerical models, and run simulations. Both deterministic and probabilistic simulations are supported, with uncertainties in wind events, models, and solvers automatically propagated to provide a probabilistic response description. Results can be used for sensitivity analysis or to train surrogate models.",
-    "is_developed_by_simcenter": true,
     "user_guide_desc": "",
     "user_guide_link": "https://nheri-simcenter.github.io/WE-UQ-Documentation/",
     "all_guide_links": [

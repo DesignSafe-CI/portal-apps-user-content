@@ -8,7 +8,6 @@
     "is_simcenter": true,
     "license_type": "Open Source",
     "long_desc": "The Quantified Uncertainty with Optimization for the Finite Element Method (quoFEM) application facilitates Uncertainty Quantification (UQ) for various simulation models. It offers a user-friendly interface with OpenSees and other tools, and provides access to advanced probabilistic analysis algorithms. quoFEM supports global sensitivity analysis, reliability analysis, Bayesian calibration, surrogate modeling, Monte Carlo-type forward propagation, and deterministic optimization techniques. It makes robust and practical UQ algorithms more accessible to researchers and practitioners in the natural hazards engineering community.",
-    "is_developed_by_simcenter": true,
     "user_guide_desc": "",
     "user_guide_link": "https://nheri-simcenter.github.io/quoFEM-Documentation/",
     "all_guide_links": [

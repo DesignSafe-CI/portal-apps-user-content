@@ -10,7 +10,6 @@
     "is_simcenter": false,
     "license_type": "Open Source",
     "long_desc": "VisIt is an open-source tool for interactive visualization, animation, and analysis of data. It handles projects from small desktop-sized to large-scale simulations, allowing users to create visualizations, animate them, apply various operators and expressions, and save the results for presentations.",
-    "is_developed_by_simcenter": false,
     "user_guide_desc": "Read step-by-step instructions on getting started and a detailed breakdown of version differences in the User Guide.",
     "user_guide_link": "https://designsafe-ci.org/user-guide/tools/visualization/#visit-user-guide",
     "all_guide_links": [
